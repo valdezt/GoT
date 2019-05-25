@@ -1,8 +1,3 @@
-# Game_of_Thrones
+# GoT
 
-Game of thrones script Dataset.
-
-Script of Each Season , season wise 
-Single Script file of whole season 1-7 
-
-Scrapped from "https://genius.com/"# GoT
+This is a repository for me to play around with some Game of Thrones script data and learn about NLP. Credit for the data scraper and scraper notebook goes to @shekharkoirala. You can find the original repo at https://github.com/shekharkoirala/Game_of_Thrones.
