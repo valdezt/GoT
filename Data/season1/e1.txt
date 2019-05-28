@@ -53,7 +53,7 @@ ROBB: Lad, go run back and get the rest.
 WILL (muttering): White Walkers. I saw the White Walkers. White Walkers. The White Walkers, I saw them.
 [He and NED face each other.]
 WILL: I know I broke my oath. And I know I’m a deserter. I should have gone back to the Wall and warned them. But I saw what I saw. I saw the White Walkers. People need to know. If you can get word to my family, tell them I’m no coward. Tell them I’m sorry.
-NED nods yes, and WILL is positioned on the tree limb that serves as a block. [NED draws Ice from a scabbard held by Theon.]
+[NED nods yes, and WILL is positioned on the tree limb that serves as a block. NED draws Ice from a scabbard held by Theon.]
 WILL (whispering): Forgive me, lord.
 [NED bows his head over ICE.]
 NED: In the name of Robert of the House Baratheon, first of his name …
@@ -109,14 +109,15 @@ THEON: The runt of the litter. That one’s yours, Snow.
 [Scene shifts to bells ringing at Kings Landing. In front of the Iron Throne, surrounded by druidical looking celebrants, lies the body of JON ARRYN. Up in the balcony, CERSEI watches the scene below as JAIME approaches.]
 JAIME: As your brother, I feel it’s my duty to warn you. You worry too much. It’s starting to show.
 CERSEI: And you never worry about anything. When we were seven, you jumped off the cliffs as Casterly Rock. One hundred foot drop into the water. And you were never afraid.
-JAIME: There was nothing to be afraid of until you told father. [In a whisper, mimicking] We’re Lannisters. Lannisters don’t act like fools.
+JAIME: There was nothing to be afraid of until you told father.
+JAIME (in a whisper, mimicking): We’re Lannisters. Lannisters don’t act like fools.
 CERSEI: What if Jon Arryn told someone?
 JAIME: But who would he tell?
 CERSEI: My husband.
 JAIME: If he told the king, both our heads would be skewered on the city gates by now. Whatever Jon Arryn knew or didn’t know, it died with him. And Robert will choose a new Hand of the king, someone to do his job while he’s off fucking boars and hunting whores. Or is it the other way around? And life will go on.
 CERSEI: You should be the Hand of the king.
 JAIME: That’s an honor I can do without. Their days are too long, their lives are too short.
-Scene shifts to a raven approaching Winterfell. [CATELYN crosses a busy courtyard and finds NED in the godswood.]
+[Scene shifts to a raven approaching Winterfell. CATELYN crosses a busy courtyard and finds NED in the godswood.]
 CATELYN: All these years and I still feel like an outsider when I come here.
 NED: You have five northern children. You’re not an outsider.
 CATELYN: I wonder if the old gods agree.
@@ -125,7 +126,7 @@ CATELYN: I am so sorry, my love.
 NED: Tell me.
 CATELYN: There was a raven from Kings Landing. Jon Arryn is dead. A fever took him. I know he was like a father to you.
 NED: Your sister. The boy …
-CATELYN: They both have their health. Gods be good. [pause] The raven brought more news. The king rides for Winterfell. With the queen and all the rest of them.
+CATELYN: They both have their health. Gods be good. The raven brought more news. The king rides for Winterfell. With the queen and all the rest of them.
 NED: He’s coming this far North, there’s only one thing he’s after.
 CATELYN: You can always say no, Ned.
 [Scene shifts to the Winterfell great hall where a great banquet is being prepared.]
@@ -141,7 +142,8 @@ ROBB: I hear the prince is a right royal prick.
 THEON: Think of all those southern girls he gets to stab with his right royal prick.
 ROBB: Go on, Tommy, shave him good. He’s never met a girl he likes better than his own hair.
 [Scene shifts to the royal procession approaching Winterfell. Bran sees them from his perch high atop a castle wall and clambers nimbly down to tell everyone. CATELYN and LUWIN walk to the courtyard, passing BRAN’s wolf pup.]
-CATELYN: Gods, but they grow fast. [Seeing BRAN on the wall] Brandon!
+CATELYN: Gods, but they grow fast.
+CATELYN (seeing BRAN on the wall): Brandon!
 BRAN: I saw the king! He’s got hundreds of people!
 CATELYN: How many times have I told you? No climbing!
 BRAN: But he’s coming right now! Down our road!
@@ -154,7 +156,8 @@ CATELYN: You always look at your feet before you lie. Run and find your father. 
 [Scene shifts to grand entry of the king’s horses and men. ARYA, wearing a helm and cloak, pushes her way into a tall wagon for a better look. In rides JOFFREY, followed by the HOUND. The other Starks wait in a greeting line.]
 CATELYN: Where’s Arya? Sansa, where’s your sister?
 [More riders with banners. ARYA scoots past her parents to get in the receiving line.]
-NED: Hey,, hey, hey, hey. What are you doing with that on? [Pulls off ARYA’s helm]
+NED: Hey, hey, hey, hey. What are you doing with that on?
+[Ned pulls off ARYA’s helm]
 ARYA (pushing BRAN): Move!
 [JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]
 NED: Your Grace.
@@ -169,7 +172,7 @@ ARYA: Where’s the Imp?
 SANSA: Will you shut up?
 ROBERT: Who have we here? You must be Robb. (To Sansa) My, you’re a pretty one. (To Arya) Your name is?
 ARYA: Arya.
-ROBERT (to BRAN) Ooh. Show us your muscles. You’ll be a soldier.
+ROBERT (to BRAN): Ooh. Show us your muscles. You’ll be a soldier.
 [JAIME removes his helm.]
 ARYA: That’s Jaime Lannister. The queen’s twin brother.
 SANSA: Would you please shut up.
@@ -242,7 +245,7 @@ VISERYS: Where is he?
 ILLYRIO: The Dothraki are not known for their punctuality.
 [A host of Dothraki come riding up. Khal Drogo wheels his stallion into the front.]
 ILLYRIO: (Greets them in Dothraki.) May I present my honored guests? Viserys of House Targaryen, the third of his name. The rightful King of the Andals and the First Men. And his sister, Daenerys, of the House Targaryen.
-VISERYS (to DAENERYS) Do you see how long his hair is? When Dothraki are defeated in combat, they cut off their braid so the whole world can see their shame. Khal Drogo has never been defeated. He’s a savage, of course, but he’s one of the finest killers alive. And you will be his queen.
+VISERYS (to DAENERYS): Do you see how long his hair is? When Dothraki are defeated in combat, they cut off their braid so the whole world can see their shame. Khal Drogo has never been defeated. He’s a savage, of course, but he’s one of the finest killers alive. And you will be his queen.
 ILLYRIO: Come forward, my dear.
 [KHAL DROGO watches as DAENERYS walks toward him. She does not hesitate and looks straight at him, although there is fear on her face. KHAL DROGO gazes at her and then leads his horsemen on a charge away.]
 VISERYS: Where’s he going?
@@ -258,7 +261,7 @@ ILLYRIO: I wouldn’t ask Khal Drogo.
 VISERYS: Do you take me for a fool?
 ILLYRIO: I take you for a king. Kings lack the caution of common men. My apologies if I’ve given offense.
 VISERYS: I know how to play a man like Drogo. I give him a queen and he gives me an army.
-DAENERYS (pleadingly) I don’t want to be his queen. I want to go home.
+DAENERYS (pleadingly): I don’t want to be his queen. I want to go home.
 VISERYS: So do I. I want us both to go home. But they took it from us. So tell me, sweet sister, how do we go home?
 DAENERYS: I don’t know.
 VISERYS: We go home with an army. With Khal Drogo’s army. I would let his whole tribe fuck you, all 40,000 men and their horses too, if that’s what it took.
@@ -315,7 +318,7 @@ ROBB: Uncle Benjen.
 BENJEN: Robb boy. How are ye?
 ROBB: I’m good.
 [KING ROBERT gets even more bawdy with a wench.]
-CATELYN (in desperation) Is this your first time in the North, Your Grace?
+CATELYN (in desperation): Is this your first time in the North, Your Grace?
 CERSEI: Yes. Lovely country.
 [They observe SANSA.]
 CATELYN: I’m sure it’s very grim, after Kings Landing. I remember how scared I was when Ned brought me up here for the first time.
@@ -419,7 +422,8 @@ JAIME: Are you completely mad?
 CERSEI: He saw us.
 JAIME: It’s all right. It’s all right.
 CERSEI: He saw us!
-JAIME: I heard you the first time. (To BRAN) Quite the little climber, aren’t you? How old are you, boy?
+JAIME (to CERSEI): I heard you the first time.
+JAIME (to BRAN): Quite the little climber, aren’t you? How old are you, boy?
 BRAN: Ten.
 JAIME: Ten.
 [JAIME looks at CERSEI, who gazes back imploringly.]

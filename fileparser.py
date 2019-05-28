@@ -1,11 +1,14 @@
 import re
 import pandas as pd
 
-regex_speaking_line = '(?P<character>[^()]*)(?P<space> )?(?P<action>\(.*\))?: (?P<speaking_line>.*)'
+regex_speaking_line = '(?P<character>[^()]*)(?P<space> )?(?P<direction>\(.*\))?: (?P<speaking_line>.*)'
 regex_action_line = '\[(?P<action>.*)\]'
 # For actions that continue over multiple lines
 regex_action_start_only = '\[(?P<action>.*)'
 regex_action_end_only = '(?P<action>.*)\]'
+
+regex_season_episode_parse = '.*[season](?P<season>\d).*[e](?P<episode>\d).*'
+rx_sep = re.compile(regex_season_episode_parse)
 
 rx_dict = {
     'action': re.compile(regex_action_line),
@@ -35,6 +38,12 @@ def parse_file(filepath):
     data = []
 
     with open(filepath, 'r', encoding='utf8') as file_object:
+
+        episode_index = rx_sep.search(filepath)
+        season = episode_index.group('season')
+        episode = episode_index.group('episode')
+        print(season, episode)
+
         line = file_object.readline()
         while line:
 
@@ -45,10 +54,14 @@ def parse_file(filepath):
             if key == 'speaking':
                 speaking_line = match.group('speaking_line')
                 character = match.group('character')
+                direction = match.group('direction')
                 row = {
                     'speaking_line' : speaking_line,
                     'character': character,
-                    'action': ''
+                    'action': '',
+                    'direction': direction,
+                    'season': season,
+                    'episode': episode
                 }
 
             if key in ('action', 'action_start', 'action_end'):
@@ -56,7 +69,10 @@ def parse_file(filepath):
                 row = {
                     'speaking_line' : '',
                     'character': '',
-                    'action' : action
+                    'action' : action,
+                    'direction': '',
+                    'season': season,
+                    'episode': episode
                 }
 
             if row:
