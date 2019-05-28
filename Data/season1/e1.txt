@@ -107,7 +107,7 @@ ROBB: What is it?
 [JON pulls up a white wolf pup.]
 THEON: The runt of the litter. That one’s yours, Snow.
 [Scene shifts to bells ringing at Kings Landing. In front of the Iron Throne, surrounded by druidical looking celebrants, lies the body of JON ARRYN. Up in the balcony, CERSEI watches the scene below as JAIME approaches.]
-JAIME: As your brother, I feel it’s my duty to warn you: You worry too much. It’s starting to show.
+JAIME: As your brother, I feel it’s my duty to warn you. You worry too much. It’s starting to show.
 CERSEI: And you never worry about anything. When we were seven, you jumped off the cliffs as Casterly Rock. One hundred foot drop into the water. And you were never afraid.
 JAIME: There was nothing to be afraid of until you told father. [In a whisper, mimicking] We’re Lannisters. Lannisters don’t act like fools.
 CERSEI: What if Jon Arryn told someone?
@@ -143,9 +143,9 @@ ROBB: Go on, Tommy, shave him good. He’s never met a girl he likes better than
 [Scene shifts to the royal procession approaching Winterfell. Bran sees them from his perch high atop a castle wall and clambers nimbly down to tell everyone. CATELYN and LUWIN walk to the courtyard, passing BRAN’s wolf pup.]
 CATELYN: Gods, but they grow fast. [Seeing BRAN on the wall] Brandon!
 BRAN: I saw the king! He’s got hundreds of people!
-CATELYN: How many times have I told you: No climbing!
+CATELYN: How many times have I told you? No climbing!
 BRAN: But he’s coming right now! Down our road!
-CATELYN: I want you to promise me: No more climbing.
+CATELYN: I want you to promise me. No more climbing.
 BRAN (looking down): I promise.
 CATELYN: D’you know what?
 BRAN: What?
@@ -330,7 +330,7 @@ CERSEI: And your dress. Did you make it?
 [SANSA nods yes.]
 CERSEI: Such talent. You must make something for me.
 [SANSA departs.]
-CERSEI (to CATELYN]: I hear we might share a grandchild someday.
+CERSEI (to CATELYN): I hear we might share a grandchild someday.
 CATELYN: I hear the same.
 CERSEI: Your daughter will do well in the capital. Such a beauty shouldn’t stay hidden up here forever.
 [SANSA and JOFFREY catch each other’s eye. JOFFREY smiles at her and she turns to her friend.]
@@ -420,8 +420,7 @@ CERSEI: He saw us.
 JAIME: It’s all right. It’s all right.
 CERSEI: He saw us!
 JAIME: I heard you the first time. (To BRAN) Quite the little climber, aren’t you? How old are you, boy?
-BRAN: Ten
-.
+BRAN: Ten.
 JAIME: Ten.
 [JAIME looks at CERSEI, who gazes back imploringly.]
 JAIME: The things I do for love.
