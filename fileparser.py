@@ -6,6 +6,7 @@ regex_action_line = '\[(?P<action>.*)\]'
 # For actions that continue over multiple lines
 regex_action_start_only = '\[(?P<action>.*)'
 regex_action_end_only = '(?P<action>.*)\]'
+regex_lazy_action = '(?P<action>.*)'
 
 regex_season_episode_parse = '.*[season](?P<season>\d).*[e](?P<episode>\d).*'
 rx_sep = re.compile(regex_season_episode_parse)
@@ -14,7 +15,8 @@ rx_dict = {
     'action': re.compile(regex_action_line),
     'action_start': re.compile(regex_action_start_only),
     'action_end': re.compile(regex_action_end_only),
-    'speaking': re.compile(regex_speaking_line)
+    'speaking': re.compile(regex_speaking_line),
+    'lazy_action': re.compile(regex_lazy_action)
 }
 
 def _parse_line(line):
@@ -42,7 +44,6 @@ def parse_file(filepath):
         episode_index = rx_sep.search(filepath)
         season = episode_index.group('season')
         episode = episode_index.group('episode')
-        print(season, episode)
 
         line = file_object.readline()
         while line:
@@ -64,7 +65,7 @@ def parse_file(filepath):
                     'episode': episode
                 }
 
-            if key in ('action', 'action_start', 'action_end'):
+            if key in ('action', 'action_start', 'action_end', 'lazy_action'):
                 action = match.group('action')
                 row = {
                     'speaking_line' : '',
