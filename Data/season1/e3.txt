@@ -150,7 +150,8 @@ Guard: We've been instructed to escort you into the city.
 Catelyn Stark: Instructed? I don't know who's providing your instructions, but...
 Guard: Follow me, Lady Stark.
 At Baelish’s brothel.
-Petyr Baelish:  Cat! Go on. Go upstairs. (to his whores)
+Petyr Baelish:  Cat!
+Petyr Baelish (to his whores):  Go on. Go upstairs.
 Catelyn Stark:  You little worm! You take me for some back-alley Sally you can drag into a…
 Two naked whores interrupt, Baelish snaps at them to leave.
 Petyr Baelish: I meant no disrespect to you of all people.
