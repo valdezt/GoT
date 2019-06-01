@@ -1,7 +1,8 @@
 import re
 import pandas as pd
 
-regex_speaking_line = '(?P<character>[^()]*)(?P<space> )?(?P<direction>\(.*\))?: (?P<speaking_line>.*)'
+regex_speaking_line = '(?P<character>[^():]*)(?P<space_1> )?(?P<direction>\(.*\))?:(?P<space_2> +)(?P<speaking_line>.*)'
+regex_speaking_line_2 = '(?P<character>[^():]*):(?P<space_1> +)?(?P<direction>\(.*\))?(?P<space_2> +)(?P<speaking_line>.*)'
 regex_action_line = '\[(?P<action>.*)\]'
 # For actions that continue over multiple lines
 regex_action_start_only = '\[(?P<action>.*)'
