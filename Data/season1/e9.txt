@@ -44,7 +44,7 @@ Walder Frey:  Who asked you? You're not Lord Frey yet, not until I die. Do I loo
 Ryger Rivers:  Father, please –
 Walder Frey:  I need lessons in courtesy from you, bastard? Your mother would still be a milkmaid if I hadn't squirted you into her belly.
 Walder Frey (gestures to Catelyn): All right, you come forward.
-(kisses her hand) There. Now that l've observed the courtesies, perhaps my sons will do me the honor of shutting their mouths.
+Walder Frey (kisses her hand): There. Now that l've observed the courtesies, perhaps my sons will do me the honor of shutting their mouths.
 Catelyn Stark:  ls there somewhere we can talk?
 Walder Frey:  We're talking right now. Fine. Out! All of you!
 Walder Frey (taps his new wife on the bottom): Oh! You too.
@@ -250,18 +250,17 @@ Daenerys Targaryen:  No one will enter.
 Mirri Maz Duur slits the horse’s throat. Blood spills all over Drogo’s chest and Daenerys’ face.
 Daenerys Targaryen:  Bring him back to me.
 Daenerys leaves the tent as the horse collapses to the ground, dead. Jorah comes to her.
-What have you done?
-Daenerys Targaryen:  I have to save him.
-We could have been 10 miles away from here by now, on the way to Asshai. You would have been safe.
-Qotho:  (in Dothraki) This must not be.
+Jorah Mormont:  What have you done?
+Daenerys Targaryen:  I have to save him. We could have been 10 miles away from here by now, on the way to Asshai. You would have been safe.
+Qotho (in Dothraki):  This must not be.
 Daenerys Targaryen:  (in Dothraki) This must be.
-Qotho:  (in Dothraki) Witch.
-Rakharo:  (in Dothraki) Nothing good will come of this.
+Qotho (in Dothraki):  Witch.
+Rakharo (in Dothraki):  Nothing good will come of this.
 Rakharo tries to talk to Qotho, but gets sucker punched in the face.
-Daenerys Targaryen:  (in Dothraki) No, you can't.
+Daenerys Targaryen (in Dothraki):  No, you can't.
 Qotho unsheaths his dagger and moves past Daenerys, pushing her towards the ground. Daenerys hits the ground with her belly.
 Irri:  Khaleesi!
-Jorah Mormont:  (in Dothraki) No further, horselord.
+Jorah Mormont (in Dothraki):  No further, horselord.
 Daenerys starts moaning in pain, while we hear Mirri Maz Duur’s incantations in the background. Qotho turns around and lunges towards Jorah. The two fight, but Jorah gains the upper hand and kills him with a sword blow to the face.
 Jorah Mormont:  Are you hurt?
 Daenerys Targaryen: The baby –
