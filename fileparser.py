@@ -20,6 +20,32 @@ rx_dict = {
     'lazy_action': re.compile(regex_lazy_action)
 }
 
+# This dictionary will help convert names of characters from first name only
+# to first + last name.
+character_dictionary = {
+    'Arya' : 'Arya Stark',
+    'Barriston' : 'Barristan Selmy',
+    'Benjen' : 'Benjen Stark',
+    'Catelyn' : 'Catelyn Stark',
+    'Cersei' : 'Cersei Lannister',
+    'Bran' : 'Bran Stark',
+    'Daenerys' : 'Daenerys Targaryen',
+    'Illyrio' : 'Illyrio Mopatis',
+    'Jaime' : 'Jaime Lannister',
+    'Jon' : 'Jon Snow',
+    'Jorah' : 'Jorah Mormont',
+    'Luwin' : 'Maester Luwin',
+    'Ned' : 'Eddard Stark',
+    'Ned Stark' : 'Eddard Stark',
+    'Robb' : 'Robb Stark',
+    'Robert' : 'Robert Baratheon',
+    'Sansa' : 'Sansa Stark',
+    'The Hound' : 'Sandor Clegane',
+    'Theon' : 'Theon Greyjoy',
+    'Tyrion' : 'Tyrion Lannister',
+    'Viserys' : 'Viserys Targaryen'
+}
+
 def _parse_line(line):
     """
     Search a line against all defined regexes and return the key and match
@@ -85,3 +111,30 @@ def parse_file(filepath):
     data = pd.DataFrame(data)
 
     return data
+
+def convert_character(x):
+    x = x.lower().title().strip()
+
+    try:
+        return character_dictionary[x]
+    except KeyError:
+        return x
+
+def parse_season(season_number, max_episode_number):
+
+    df = pd.DataFrame(
+        columns=[
+            'speaking_line',
+            'character',
+            'action',
+            'direction',
+            'season',
+            'episode'
+        ]
+    )
+
+    for episode_number in range(1, max_episode_number+1):
+        filepath = f'./Data/season{season_number}/e{episode_number}.txt'
+        df = df.append(parse_file(filepath))
+
+    return df
