@@ -186,7 +186,7 @@ Grand Maester Pycelle: He did not, my Lord. And I did not presume to ask.
 Eddard Stark:  Jon's death...
 Grand Maester Pycelle: Such a tragedy.
 Eddard Stark:  Did he say anything to you during his final hours?
-Grand Maester Pycelle:Nothing of import, my Lord. There was one phrase he kept repeating: "The seed is strong," I think it was.
+Grand Maester Pycelle:Nothing of import, my Lord. There was one phrase he kept repeating. "The seed is strong," I think it was.
 Eddard Stark:  "The seed is strong"? What does that mean?
 Grand Maester Pycelle: The dying mind is a demented mind, Lord Stark. For all the weight they're given, last words are usually as significant as first words.
 Eddard Stark: And you're quite certain he died of a natural illness?

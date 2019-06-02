@@ -327,9 +327,11 @@ QYBURN: Here. Let me.
 QYBURN  buckles the saddle for JAIME
 QYBURN: It will take time.
 JAIME: (nods)
-QYBURN exits and ROOSE BOLTON approaches.  Roose BOLTON: Qyburn hopes your father will force the Citadel to give him back his chain.
+QYBURN exits and ROOSE BOLTON approaches.
+Roose BOLTON: Qyburn hopes your father will force the Citadel to give him back his chain.
 JAIME mounts his horse.
-JAIME: My father will make him Grand Maester if he grows me a new hand.  Roose BOLTON: You will give my regards to Lord Tywin, I trust?
+JAIME: My father will make him Grand Maester if he grows me a new hand.
+Roose BOLTON: You will give my regards to Lord Tywin, I trust?
 JAIME: (nods)  Tell Robb Stark I'm sorry I couldn't make his uncle's wedding. The Lannisters send their regards.
 JAIME and QYBURN ride away. Theypasses LOCKE.
 LOCKE: Safe journey, Kingslayer. Nothing to say? I liked you better before. I don't remember chopping your balls off, too. And don't you worry about your friend. We'll take good care of her.

@@ -124,17 +124,24 @@ MAN: The Kingslayer.
 One of LOCKE's men forces BRIENNE and JAIME to kneel in the courtyard.
 MAN #2: Down!
 LOCKE: On your knees. Lord Bolton, I give you the Kingslayer.
-LOCKE pushes JAIME down with his foot. JAIME falls on his face, without resistance. JAIME groans.  Roose BOLTON: Pick him up, Locke.
-Locke picks up Jaime with the help of one of his men.  Roose BOLTON: You've lost a hand.
+LOCKE pushes JAIME down with his foot. JAIME falls on his face, without resistance. JAIME groans.
+Roose BOLTON: Pick him up, Locke.
+Locke picks up Jaime with the help of one of his men.
+Roose BOLTON: You've lost a hand.
 LOCKE: No, my lord, he has it here.
-LOCKE taunts JAIME with the dismembered hand tied around his neck. ROOSE pulls the hand from around JAIME's neck and hands it to LOCKE.  Roose BOLTON: Take this away.
-LOCKE: Send it to his father?  Roose BOLTON: You'll hold your tongue unless you want to lose it.  Roose BOLTON: Cut her free. Apologies, my lady. You're under my protection now.
+LOCKE taunts JAIME with the dismembered hand tied around his neck. ROOSE pulls the hand from around JAIME's neck and hands it to LOCKE.
+Roose BOLTON: Take this away.
+LOCKE: Send it to his father?
+Roose BOLTON: You'll hold your tongue unless you want to lose it.
+Roose BOLTON: Cut her free. Apologies, my lady. You're under my protection now.
 BRIENNE is cut free.
-BRIENNE: Thank you, my lord.  Roose BOLTON: Find suitable rooms for our guests. We'll speak later.
+BRIENNE: Thank you, my lord.
+Roose BOLTON: Find suitable rooms for our guests. We'll speak later.
 ROOSE starts to walk away.
 JAIME: Lord Bolton.
 ROOSE turns around.
-JAIME: Is there word from the capital?  Roose BOLTON: You haven't heard? Stannis Baratheon laid siege to King's Landing. Sailed into Blackwater Bay. Stormed the gates with thousands of men. And your sister How can I put this? Your sister is alive and well. Your father's forces prevailed.
+JAIME: Is there word from the capital?
+Roose BOLTON: You haven't heard? Stannis Baratheon laid siege to King's Landing. Sailed into Blackwater Bay. Stormed the gates with thousands of men. And your sister How can I put this? Your sister is alive and well. Your father's forces prevailed.
 JAIME falls to his knees in relief.
 ROOSE: Ser Jaime isn't well. Take him to Qyburn.
 His men pick JAIME up, and lead him and BRIENNE away.

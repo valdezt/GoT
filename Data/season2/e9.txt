@@ -334,7 +334,8 @@ MEN: First and second squads, to the gate! To the Mud Gate!
 CUT TO INSIDE THE HARBOR WALL
 The HOUND leads a charge of Lannister men.
 HOUND: Any man dies with a clean sword, I'll rape his fucking corpse. He and LANCEL engage with the sieging forces. They each cut down a number of Baratheon men before LANCEL is struck in the chest by an arrow. He stumbles and screams. Panting, he retreats.
-INT: MAEGOR'S HOLDFAST   CERSEl: When we were young, Jaime and I, we looked so much alike even our father couldn't tell us apart. I could never understand why they treated us differently. Jaime was taught to fight with sword and lance and mace, and I was taught to smile and sing and please. He was heir to Casterly Rock, and I was sold to some stranger like a horse to be ridden whenever he desired.
+INT MAEGOR'S HOLDFAST
+CERSEl: When we were young, Jaime and I, we looked so much alike even our father couldn't tell us apart. I could never understand why they treated us differently. Jaime was taught to fight with sword and lance and mace, and I was taught to smile and sing and please. He was heir to Casterly Rock, and I was sold to some stranger like a horse to be ridden whenever he desired.
 SANSA: You were Robert's queen.
 CERSEI: And you will be Joffrey's. Enjoy. I don't think I know this one.
 CERSEI walks over to SHAE.
@@ -522,7 +523,8 @@ CERSEI: And wolves.
 CUT TO THE HARBOR SHORE
 PODRICK holds TYRION, who remains in shock.
 PODRICK: My lord.
-Another wave of soldiers approaches from the shore. Some are mounted.    CERSEl: He could hear them howling in the night. The little cub was frightened. His mother said, "You are a lion, my son. You mustn't be afraid.
+Another wave of soldiers approaches from the shore. Some are mounted.
+CERSEl: He could hear them howling in the night. The little cub was frightened. His mother said, "You are a lion, my son. You mustn't be afraid.
 Stannis looks down from his perch. The mounted soldiers attack.
 CUT TO THE THRONE ROOM
 CERSEI: "For one day, all the beasts will bow to you. "You will be king. "All the stags will bow. All the wolves will bow. "The bears in the north and the foxes of the south, "all the birds in the sky and the beasts in the sea, "they will all come to you, little lion, "to rest a crown upon your head.

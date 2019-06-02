@@ -288,7 +288,8 @@ ROBB: You're paying for my sins, Uncle. It's not fair or right. I'll remember it
 INT: Harenhall dining room
 JAIME struggles to feed himself one-handed. BRIENNE sits next to him in a gown, and ROOSE sits across from them both.
 ROOSE BOLTON: I see my men have finally found you something appropriate to wear.
-BRIENNE: Yes. Most kind of them. You're a Stark bannerman, Lord Bolton. I am acting on Lady Stark's orders to return Jaime Lannister to King's Landing.  Roose BOLTON: When King Robb left Harrenhal, his mother was his prisoner. If she wasn't his mother, he'd have hanged her for treason.
+BRIENNE: Yes. Most kind of them. You're a Stark bannerman, Lord Bolton. I am acting on Lady Stark's orders to return Jaime Lannister to King's Landing.
+Roose BOLTON: When King Robb left Harrenhal, his mother was his prisoner. If she wasn't his mother, he'd have hanged her for treason.
 Brienne stabs Jaime's steak so that he has leverage to cut it.
 ROOSE BOLTON: I should send you back to Robb Stark.
 JAIME: You should. But instead, you're sitting here watching me fail at dinner. Why might that be?
