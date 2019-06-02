@@ -74,7 +74,7 @@ While YARA reads the letter in voice over, RAMSAY and MYRANDA aggressively havin
 MYRANDA: Yes!
 YARA's voice over continues, as she and the Ironborn row in darkness.
 YARA: They skinned our countrymen and they mutilated my brother, your prince. Your prince.  Everything they've done to him, they've also done to you.
-CUT TO: MYRANDA and RAMSAY
+CUT TO MYRANDA and RAMSAY
 MYRANDA: Yes! Yes!
 YARA: As long as they can hurt our prince with impunity, the word ironborn means nothing.
 EXT: The waters outside the Dreadfort
@@ -89,7 +89,7 @@ YARA:  Theon Greyjoy.
 BOLTON GUARD:  I don't know--
 YARA: I'm here for Theon Greyjoy. Take me to the dungeons.
 BOLTON GUARD: He's not in the dungeons.
-CUT TO: The kennel.
+CUT TO The kennel.
 Many dogs sit in cages. The FIRST MATE comes down the steps bearing a torch, followed by YARA and her hostage BOLTON GUARD.
 BOLTON GUARD: Last cage on the right.
 YARA: Thank you.
@@ -280,7 +280,7 @@ TYRION: Choked on his pigeon pie.
 TYWIN: So you would blame the bakers?
 TYRION: Or the pigeons. Just leave me out of it.
 TWYIN: The crown may call its first witness.
-CUT TO: The throne room, a bit later.
+CUT TO The throne room, a bit later.
 MERYN TRANT is on the stand.
 MERYN TRANT: Once we'd got King Joffrey safely away from the mob, the Imp rounded on him. He slapped the king across the face and called him a vicious idiot and a fool. It wasn't the first time the Imp threatened Joffrey. Right here in this throne room, he marched up those steps and called our king a halfwit. Compared His Grace to the Mad King and suggested he'd meet the same fate. And when I spoke in the king's defense, he threatened to have me killed.
 TYRION: Oh, why don't you tell them what Joffrey was doing?
@@ -288,7 +288,7 @@ TYWIN: Silence.
 TYRION: Pointing a loaded crossbow at Sansa Stark while you tore at her clothes and beat her.
 TYWIN: Silence! You will not speak unless called upon. You're dismissed, Ser Meryn.
 MERYN TRANT exits, eyeing TYRION on his way out.
-CUT TO: The throne room, a bit later.
+CUT TO The throne room, a bit later.
 PYCELLE is on the stand.
 PYCELLE: Basilisk venom, widow's blood, wolfsbane, essence of nightshade, sweetsleep, tears of Lys, demon's dance... blind eye--
 OBERYN: I think you have made your point, Grand Maester. You have a lot of poison in your store.
@@ -302,7 +302,7 @@ PYCELLE: This was found on the body of Dontos Hollard, the king's fool. He was l
 TYWIN: Was this one of the poisons stolen from your store?
 PYELLE: It was. The Strangler. A poison few in the Seven Kingdoms possess. And used to strike down the most noble child the gods ever put on this good earth.
 The crowd murmurs.
-CUT TO: The throne room, a bit later.
+CUT TO The throne room, a bit later.
 CERSEI is on the stand.
 CERSEI: "I will hurt you for this. A day will come when you think you are safe and happy and your joy will turn to ashes in your mouth and you will know the debt is paid."
 MACE: Your own brother said this to you?
@@ -312,7 +312,7 @@ CERSEI: I discovered he'd been keeping whores in the Tower of the Hand. I asked 
 TYRION: (shakes his head)
 TYWIN: Thank you, Your Grace, for the courage of your testimony.
 MARGAERY sighs. CERSEI leaves the witness stand. JAIME watches her return to her seat, and their eyes lock.
-CUT TO: The throne room, a bit later.
+CUT TO The throne room, a bit later.
 VARYS is on the stand.
 MACE: Do you remember the precise nature of this threat?
 VARYS: I'm afraid I do, my lord. He said, "Perhaps you should speak more softly to me, then. Monsters are dangerous and just now kings are dying like flies."

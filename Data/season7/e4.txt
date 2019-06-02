@@ -78,7 +78,7 @@ BRAN:  I'm not really, not anymore.  I remember what it felt like to be Brandon 
 MEERA begins to cry.
 MEERA:  You died in that cave.
 MEERA turns to walk out the door.  She hesitates looking at BRAN, then walks out.
-CUT TO:  EXT WINTERFELL:
+CUT TO  EXT WINTERFELL:
 There is a snow blown field.  ARYA is riding on a horse.  Winterfell can be seen far in the distance.
 ARYA approaches the main gate on foot.  Two guards are huddled by a brazier getting warm.  There's indistinct chatter.  One of the men notice ARYA walking to the gate and approach her.
 MAN 1:  Hey, oh.  Where are you going?
@@ -190,7 +190,7 @@ PODRICK:  You're too hard on yourself, My Lady.
 BRIENNE:  I'm not a --
 BRIENNE pauses for a moment.
 BRIENNE:  Thank you, Podrick.
-CUT TO:  DRAGONSTONE
+CUT TO  DRAGONSTONE
 DAENERYS and MISSANDEI are walking along a path outside of Dragonstone followed by members of the Queensguard.
 MISSANDEI:  Your Grace, there's still no word from the Unsullied.
 DAENERYS:  Soon.  They will come back to me.
@@ -296,7 +296,7 @@ BRIENNE strikes at ARYA who quickly sidesteps and parries the attack.  BRIENNE a
 BRIENNE:  Who taught you to do that?
 ARYA:  No one.
 ARYA collects her sword.  SANSA walks away.  BAELISH remains on the balcony staring at ARYA who looks up at him.  BAELISH bows to ARYA and walks away.
-CUT TO:  DRAGONSTONE
+CUT TO  DRAGONSTONE
 JON and DAVOS are walking along the paths outside of Dragonstone having a discussion.
 DAVOS:  What do you think of her?
 JON:  Who?

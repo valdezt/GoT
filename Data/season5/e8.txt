@@ -36,7 +36,7 @@ INT. HOUSE OF BLACK AND WHITE
 ARYA: My name is Lana. I’m an orphan. When I was 8 I begged enough money to buy my first bucket of oysters, and I sold that bucket and made enough money to buy 2 more.
 Arya pushes an oyster cart through a crowded market.
 ARYA (V.O.): Iit took a while but I finally saved enough to buy myself an oyster cart. Now every morning I make my way down to the canals. I pass the fish mongers and the bakers. I usually see Lhara, my first customer of the day on my way home. Then I turn left onto Moonsinger Lane--
-CUT TO: INT. HOUSE OF BLACK AND WHITE
+CUT TO INT. HOUSE OF BLACK AND WHITE
 Jaqen slaps her.
 ARYA: Left onto Ragman Lane, where I do most of my trade.
 JAQEN: Lana is very impressive. Very industrious. She will make a fine servant for the Many Faced God.
@@ -58,7 +58,7 @@ A man throws a bag of money and a map on the Thin Man’s table.
 MAN: It’s my 18th voyage. I’ve returned from all of them without a scratch on me.
 THIN MAN: Can’t do it.
 He is carried away as the Thin Man slurps the oyster
-CUT TO: INT. THE HOUSE OF BLACK AND WHITE
+CUT TO INT. THE HOUSE OF BLACK AND WHITE
 JAQEN: The man is a gambler. He wages that his sailor's ship will make it to its destination. It is a strange wager for the captain. He only wins if he loses his life.
 ARYA: So why would a captain make the wager in the first place?
 JAQEN: A girl tells a man that she has seen.

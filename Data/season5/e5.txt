@@ -1,5 +1,4 @@
-TITLE SEQUENCE
-INT. ROOM
+TITLE SEQUENCEINT. ROOM
 Grey Worm lays in a bed, asleep. Missandei stands over him, crying.
 INT. THRONE ROOM
 The room is dark, except for some candles. Daenerys and Daario stand over the body of Barristan. Hizdahr enters with two men.
@@ -28,7 +27,7 @@ HIZDAHR: (Valyrian) All men must die.
 The other men besides Hizdahr grovel before Daenerys. The dragons continue eating. After a moment, she takes her hand off of Hizdahr.
 DAENERYS: Don't want to overfeed them. Tomorrow perhaps.
 Daario and the Unsullied take the men out. Daenerys watches her dragons eat for a moment, and then walks out herself.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 INT. LIBRARY
 Sam sits at a table, reading a letter. Aemon is with him.
 SAM: "And though Daenerys maintains her grip on Slaver's Bay, forces rise against her from within and without. She refuses to leave until the freedom of the former slaves is secure." She sounds like quite a woman.
@@ -102,7 +101,7 @@ JON: I know what it's like to lose the people you love. I know this is hard for 
 OLLY: Will there be anything else you need, Lord Commander?
 JON: No.
 Olly leaves. Jon sighs.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 EXT. COURTYARD
 Podrick walks carrying some supplies. He enters a building. Inside, Brienne stares out of a window. Podrick sets down the supplies.
 PODRICK: She's far away from the Lannisters. This is her home. Maybe Lady Sansa is better off here.
@@ -243,7 +242,7 @@ ROOSE: You've never asked me about your mother.
 RAMSAY: Why would I? She had me, she died. And here we are.
 ROOSE: She was a peasant girl. Pretty in a common sort of way. She was the miller's wife. Apparently they had married without my knowledge or consent. So I had him hanged and I took her beneath the tree where he was swaying. She fought me the whole time. She was lucky I didn't hang her, too. A year later she came to my gates with a squalling baby in her arms. A baby she claimed was mine. I nearly had her whipped and the child thrown in the river. (Stands up). But then I looked at you and I saw then what I see now. You are my son. (After a moment). Stannis Baratheon has an army at Castle Black. But he won't stay for long. He wants the Iron Throne, and the road to King's Landing comes right through Winterfell. He means to take the North. But the North is ours. It's yours and mine. Will you help me defeat him?
 RAMSAY: Yes.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 INT. LIBRARY
 Gilly walks through the bookshelves, examining them. Sam sits at the table reading.
 GILLY: Is this every book there is?
@@ -309,7 +308,7 @@ Shireen looks back at Gilly. Selyse catches her, and she looks down and away. Jo
 STANNIS: I hope you know what you're doing with these wildlings. I need those ships.
 JON: You'll get them back, I swear it. Have a safe journey, Your Grace. And thank you.
 Jon watches Stannis walk away and get on his horse. He makes eye contact with Melisandre, but she looks away. Stannis and his army begin leaving.
-CUT TO: MEEREN
+CUT TO MEEREN
 INT. GREY WORM’S ROOM
 Missandei watches over Grey Worm. He suddenly gets up, startling her.
 MISSANDEI:  You're still too weak. (He lays back down).
@@ -340,7 +339,7 @@ DAENERYS: It takes courage to admit fear. And to admit a mistake. I came here to
 HIZDAHR: Yes, my queen.
 DAENERYS: And in order to forge a lasting bond with the Meereenese people, I will marry the leader of an ancient family. (Hizdahr nods). Thankfully a suitor is already on his knees.
 Hizdahr looks surprised. Daenerys faintly smiles, and then leaves. Hizdahr is left in the cell, with the door wide open.
-CUT TO: SEA
+CUT TO SEA
 EXT. JORAH’S BOAT
 Tyrion wakes up and feels his head.
 TYRION: Don't worry. I'll be fine. Nothing broken, I don't think. Where are we now? Not the Rhoyne. (No response). Long, sullen silences and an occasional punch in the face. The Mormont way. Let's start over. I apologize for before. My mouth sometimes runs away from me. This doesn't have to be an unpleasant trip. We're going to be spending a lot of time together on the way to Meereen.

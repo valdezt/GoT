@@ -109,7 +109,7 @@ DAENERYS:  You look strong.  You found a cure?
 JORAH:  I wouldn't be here if I hadn't.  I return to your service, my queen, if you'll have me.
 DAENERYS:  It would be my honor.
 DAENERYS steps forward and hugs JORAH.
-CUT TO:  EXT. WINTERFELL
+CUT TO  EXT. WINTERFELL
 A group of ravens are resting on a tree.  Several of the ravens' eyes wash white.  They take off and fly over Winterfell.  They cross frozen fields and over a snowy mountain.  They arrive at The Wall at Eastwatch-by-the-sea and continue over the Wall.  The ravens fly many miles over tundra and more mountains.  The birds crest a hill and thousands of dead men can be seen marching south.  A group of riders and the Night King are on top of an outcrop watching the dead file past.  As the ravens approach the Night King peers in their direction and the birds scatter and disperse.
 BRAN's eyes are pure white.  They wash back to their normal color.  He is sitting in front of the Weirwood.  Maester Wolkan stands next to him.
 BRAN:  Ravens.  We need to send ravens.
@@ -461,7 +461,7 @@ SAMWELL:  These maesters, they set me to the task of preserving that man's windo
 GILLY:  Steps.  That number was steps.
 SAMWELL is dismayed.  He sets his quill down and grabs the book he was writing in and hands it to SAM Jr.  He retrieves his cloak and walks out the door.
 SAM is walking through a dark library.  He heads to the restricted section and unlocks the barred gate.  He begins removing books and scrolls from shelfs and stuff them in his satchel.  After retrieving what he needs, SAM quickly walks to the exit of the library.  He pauses before he leaves and turns around.  He glances back at the library.  It is many stories tall lined with countless  shelves of books.  SAMWELL looks at the library one last time, turns and walks out of the door.
-CUT TO:  EXT. CITADEL
+CUT TO  EXT. CITADEL
 SAMWELL is loading a wagon with his things.  He walks around to the driver seat.  GILLY and SAM JR. are already in the wagon dressed for the road.  SAM climbs aboard and takes the reins in his hand.
 GILLY:  Are you sure you want to do this?  You always wanted to be a maester.
 SAMWELL:  I'm tired of reading about the achievements of better men.

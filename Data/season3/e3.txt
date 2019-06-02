@@ -64,7 +64,8 @@ BRIENNE: Maybe you were as good as people said once. Or maybe people just love t
 JAIME: When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.
 BRIENNE:  Would I?
 JAIME: They'll knock your teeth out.
-BRIENNE: You think I care about my teeth? No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?
+BRIENNE: You think I care about my teeth?
+JAIME: No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?
 BRIENNE: What does it matter?
 JAIME: Close your eyes. Pretend they're Renly.
 BRIENNE: If you were a woman, you wouldn't resist? You'd let them do what they wanted?
@@ -169,7 +170,7 @@ CRASTER: Smaller flock than you went north with.
 JEOR: We can talk inside.
 CRASTER: Oh, can we?
 CRASTER takes stock in silence. The Night's Watch is ready to force their way in, if necessary.
-CUT TO: Inside Craster's Keep.
+CUT TO Inside Craster's Keep.
 The men sit by the fire in a tense silence. Nearby, a woman wails. Some younger girls observe from the rafters. Women tend to the animals outside.
 WOMAN: They need some water.
 WOMAN #2: Tether it and I'll be inside.
@@ -180,7 +181,7 @@ CRASTER: I am. I got no fear of what's out there. When the white cold comes, you
 The woman continues to wail in another room. Another woman pours some water for CRASTER.
 CRASTER: Go tell her she can bite down on a rag or she can bite down on my fist. Women. That sow right there gave birth to a litter of eight. Barely a grunt. (Pointing to SAM) And she's almost as fat as this one here.  Now why don't you dine on him? Carve off what you need as you go. Well, look at him. He's a walking feast.
 CRASTER laughs uncontrollably. SAM stands and exits.
-CUT TO: Craster's Keep courtyard.
+CUT TO Craster's Keep courtyard.
 SAM walks outside. He follows the sound of the wailing, and peers into the small hut where GILLY is giving birth.
 WOMAN: Here we are.
 WOMAN #2: Sharpen these for me, would ya?
@@ -197,7 +198,7 @@ RAMSEY: If you can't ride, we don't stand a chance.
 THEON: I can ride.
 RAMSAY: You're sure?
 RAMSEY douses the light as they prepare to leave.
-CUT TO: Outside.
+CUT TO Outside.
 THEON painfully mounts the house that RAMSAY has procured.
 RAMSAY: Ride east. Follow the rising sun. Your sister's waiting for you.
 THEON: I'll make you a Lord of the Iron Islands for this.
@@ -259,7 +260,7 @@ DAENERYS: Did you know him well, Ser Barristan?
 BARRISTAN: I did, Your Grace. Finest man I ever met.
 DAENERYS: I wish I had known him. But he was not the last dragon.
 They approach an impressive round structure with a huge, golden winged statue crouched atop it.
-CUT TO: A courtyard of the building
+CUT TO A courtyard of the building
 DAENERYS, JORAH and BARRISTAN stand before a raised platform where KRAZNYS MO NAKLOZ and GREIZHEN sit and MISSANDEI stands.
 MISSANDEI: All? Did this one's ears mishear, Your Grace?
 DAENERYS: They did not. I want to buy them all.
@@ -302,7 +303,7 @@ DAENERYS:  Done.
 KRAZNYS:  Done.
 DAENERYS: I'll take you as well, now. You'll be Master Kraznys' gift to me. A token of a bargain well struck.
 MISSANDEI: (speaking Valerian) She asks that you give me to her, as a present. She asks that you do this now.
-CUT TO: outside the courtyard.
+CUT TO outside the courtyard.
 DAENERYS strides purposefully. JORAH and BARRISTAN try to keep up.
 JORAH: Khaleesi, a dragon is worth more than any army.
 BARRISTAN: Aegon Targaryen proved that.
@@ -349,7 +350,7 @@ LITTLEFINGER: Well, you are richer than I am.
 TYRION: Good point.
 LITTLEFINGER: They're only numbers. Numbers on paper. Once you understand that, it's easy to make them behave. Trivial even. You want a real challenge? Try whores.
 TYRION: I've tried quite a few. Well, lots of work to do. Enjoy the Eyrie.
-CUT TO: The hallway outside Littlefinger's chambers.
+CUT TO The hallway outside Littlefinger's chambers.
 TYRION walks into the hall. BRONN is chatting with a prostitute, and PODRICK stands by his wagon.
 BRONN: Come on, I'm here later. Come on.
 BRONN hops down and follows TYRION. BRONN trails with the wagon.

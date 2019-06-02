@@ -330,7 +330,7 @@ They ascend the first flight of stairs, and gaze up to the top of the tower. The
 DAENERYS: Is this a riddle?
 They circle the base. DAENERYS disappears from JORAH's view. He encounters KOVARRO instead.
 JORAH: Khaleesi! Khaleesi!
-CUT TO: INTERIOR OF THE HOUSE OF THE UNDYING
+CUT TO INTERIOR OF THE HOUSE OF THE UNDYING
 DAENERYS stands in darkness. She picks up a torch from the wall.
 DAENERYS: Are you trying to frighten me with magic tricks? You want me? Here I am. Are you afraid of a little girl?
 A dragon screeches. DAENERYS follows the sound up a stairwell.
@@ -468,7 +468,7 @@ JORAH, DAENERYS, KOVARRO and the Dothraki have entered his bedroom. DOREAH sits 
 DOREAH: Khaleesi, please. He said you'd never leave Qarth alive.
 DAENERYS: Come.
 DAENERYS turns and walks. XARO makes a sudden move, but JORAH draws his sword and keeps him motionless.
-CUT TO: XARO'S SAFE
+CUT TO XARO'S SAFE
 KOVARRO uses the amulet to open the vault's door. JORAH helps him to open the door. DAENERYS enters first. The vault is empty.
 DAENERYS: Nothing.
 She turns around
@@ -483,7 +483,7 @@ XARO: Khaleesi.
 DOREAH: Please! Please!
 XARO: Khaleesi!
 JORAH shuts the door and locks it. He hands the amulet key to DAENERYS.
-CUT TO: DINING ROOM
+CUT TO DINING ROOM
 They are looking for things to loot.
 JORAH: It's all a lie.
 DAENERYS hands him a golden vase.

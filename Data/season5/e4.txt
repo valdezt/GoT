@@ -1,7 +1,6 @@
-TITLE SEQUENCE
-EXT. BEACH
+TITLE SEQUENCEEXT. BEACH
 A man hops out of his boat at night, and grabs a basket of fish. As he carries it on shore, Jorah knocks him out with a punch to the face. Looking around, he drags the man out of the water, and throws two coins on him. Jorah walks over to where he has Tyrion tied up. Tyrion is grunting, trying to cut the ropes binding him with a knife. Jorah picks up the knife and Tyrion. He throws Tyrion and his supplies into the boat, and then pushes it out to sea. Once it gains momentum, he hops in himself.
-CUT TO: EXT. BOAT
+CUT TO EXT. BOAT
 A number of men walk around doing various tasks on deck. Jaime Lannister looks out from the side of the boat. He turns to the captain.
 JAIME: Is that Estermont?
 CAPTAIN: Tarth, Ser Jaime. (Shot of an island). The Sapphire Isle.
@@ -29,7 +28,7 @@ BRONN: (Sheaths his sword). You set your brother free, didn't you? I bet your si
 JAIME: (Quietly) Varys set him free.
 BRONN: Well, if you ever see the little fucker, (Lays down), give him my regards.
 JAIME: He murdered my father. If I ever see him, I'll split him in two. And then I'll give him your regards.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. SMALL COUNCIL CHAMBER
 Cersei sits in her chair, looking angry. At the table is Maester Pycelle, Qyburn, Mace Tyrell, and an empty chair.
 MACE: The Iron Bank has called one tenth of the Crown's debts. Given the expense of rebuilding the royal -
@@ -155,7 +154,7 @@ MARGAERY: (Walking out). I have to send word to Grandmother.
 TOMMEN: Will you come back later? (Margaery stops).
 MARGAERY: I need to be with my family, Your Grace. (Continues walking).
 TOMMEN: Of course.
-CUT TO: THE WALL
+CUT TO THE WALL
 EXT. CASTLE BLACK
 Some Night’s Watchmen spar in the courtyard. A number of others look on. Stannis and Selyse watch from some stairs.
 SELYSE: You think highly of this boy.
@@ -232,7 +231,7 @@ SHIREEN: Are you ashamed of me, father?
 Stannis looks up surprised. He puts down what he was doing. Shireen looks down.
 STANNIS: When you were an infant, (Stands up and walks around his desk), the Dornish trailer landed on Dragonstone. His goods were junk except for one wooden doll. He'd even sewn a dress on it in the colors of our House. No doubt he'd heard of your birth, and assumed new fathers were easy targets. I still remember how you smiled when I put that doll in your cradle, (Shireen smiles), and you pressed it to your cheek. (Looks down. Shireen’s smile drops). By the time we burnt the doll, it was too late. (Walks to the table and adjusts the objects on it). I was told you would die. Or worse, the grayscale would go slow. (Turns to her). Let you grow just enough to know the world before taking it away from you. Everyone advised me to send you to the ruins of Valyria to live out your short life with the Stone men, before the sickness spread to the castle. I told them all to go to hell. (Shireen smiles). I called in every maester on this side of the world. Every healer, every apothecary. They stopped the disease and saved your life. Because you did not belong across the world with the bloody Stone men. (Walks towards her). You are the Princess Shireen of House Baratheon. And you are my daughter.
 After a moment, Shireen hugs Stannis. At first hesitant, he hugs her back.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 INT. TOMBS UNDERNEATH WINTERFELL
 Sansa lights a candle on a tomb. She then walks over to Lyanna’s tomb and places a candle in the hand of Lyanna’s statue. She then leans down to pick a dusty feather off of the ground. As she blows off the dust, a figure is seen approaching in the background.
 BAELISH: I thought I might find you here. (Sansa turns to him). Your Aunt Lyanna.
@@ -266,7 +265,7 @@ SANSA: His father frightens me.
 BAELISH: He should, he's a dangerous man. But even the most dangerous men can be outmaneuvered. And you’ve learnt to maneuver from the very best. (Puts a hand on her shoulder). I return before too long. (Puts a hand behind her head). You'll be strong without me. (She nods, and he kisses her). The North will be yours. Do you believe me?
 SANSA: I expect I'll be a married woman by the time you return.
 Baelish chuckles and pats her shoulder. He turns and leaves as Sansa watches him.
-CUT TO: DORNE
+CUT TO DORNE
 EXT. BOAT
 At night, Bronn and Jaime sit in a boat. Bronn rows to shore alone. Looking across at Jaime, Jaime holds up his fake hand. Bronn begrudgingly goes back to rowing alone. After they get to shore, they carry their boat in, and hide it in some tall grass. They then both walk away.
 Jaime awakens to find Bronn standing over him with a knife. His eyes widens and he moves to the side as Bronn brings his knife down on a snake that was about to bite Jaime. Jaime looks at the snake and Bronn pulls his knife out of it.
@@ -352,7 +351,7 @@ Oberyn tossed his spear at my feet and said, "Girl or boy, we fight our battles.
 Obara picks up a spear that was sticking out of the sand. She twirls it around for a moment, and then tosses it through the captain’s head, killing him.
 OBARA: (Smiles). I made my choice long ago.
 Elaria and Tyene smile.
-CUT TO: EXT. BOAT AT SEA
+CUT TO EXT. BOAT AT SEA
 Jorah steers the boat as Tyrion, tied up and gagged, tries to speak. He only succeeds in mumbling. Eventually he stops trying to say real words, and instead only tries to be as loud as possible, to annoy Jorah. Jorah comes over and ungags him, and then walks back over to continue steering.
 TYRION: Thank you. (After a long pause). Who are you?
 JORAH: Your captor.
@@ -368,7 +367,7 @@ TYRION: (Chuckles). What a waste of a good kidnapping. So happens I was heading 
 JORAH: What business would you have with the Queen?
 TYRION: Gold and glory. Oh, and hate. If you've ever met my sister, you'd understand. So now that it's clear we're on the same side? (Holds out his hands expectantly. Jorah makes no move to respond). A high born knight from the North of Westeros, down on his luck in Essos. Dragon epaulettes? Bear sigil breast plate. You're Jorah Mormont. I have to ask how, exactly, were you serving your Queen in a whore house, half a world away? Is it possible, that you were running? Why would you be running? And why would she have sent you away? Oh, wait! You were spying on her, weren't you? It's all coming back to me! I was drunk through most of the Small Council meetings, but it's all coming back. You passed notes to Varys's little birds. She found out, didn't she? Found out, and exiled you. (Jorah looks downtrodden). And now you hope to win back her favor with a gift. A risky scheme. One might even say, desperate. Do you think Daenerys would execute me, and pardon you? I'd say the reverse is just as likely.
 Jorah stops steering and approaches Tyrion. Tyrion holds out his hands again, but Jorah strikes him, knocking him unconscious. He then goes back to steering, looking worried.
-CUT TO: YUNKAI
+CUT TO YUNKAI
 EXT. BALCONY OVERLOOKING THE CITY
 Daenerys and Ser Barristan stand on the balcony.
 DAENERYS: Everyone looks happy enough from up here. (Barristan chuckles). What?

@@ -32,7 +32,7 @@ MAN: Over there, go!
 BRIENNE gets up to leave. CATELYN tries to pull her to the front door. BRIENNE resists.
 BRIENNE: Not that way.
 BRIENNE exits past a tapestery. CATELYN follows.
-CUT TO: THE SHADOWLANDS SHORE
+CUT TO THE SHADOWLANDS SHORE
 STANNIS's boats sit off the coast. LITTLEFINGER takes them in, then walks towards the camp as soldiers rush by in disorder.
 INT. RENLY's tent
 Loras mournfully kneels beside RENLY's body. MARGAERY paces in the background.
@@ -116,7 +116,7 @@ TYRION: Oh, Lancel, tell my friend Bronn to please kill you if anything should h
 LANCEL: Please kill me if anything should happen to Lord Tyrion.
 BRONN: It will be my pleasure.
 LANCEL runs off down the streets. BRONN smiles.
-CUT TO: STORMLANDS
+CUT TO STORMLANDS
 STANNIS's forces have landed at RENLY's camp. DAVOS meets STANNIS as he enters the main courtyard, and they move through the compound at rapid pace.
 DAVOS: Your Grace.
 STANNIS: What is it?
@@ -175,7 +175,7 @@ BRONN: People think you're pulling the king's strings. They blame you for the ci
 TYRION: Blame me? I'm trying to save them.
 BRONN: You don't need to convince me.
 TYRION: Demon monkey.
-CUT TO: IRON ISLANDS
+CUT TO IRON ISLANDS
 THEON, walks up from a dock., in armor It is morning. He gazes on a ship and smiles. The crew walks up noisily.
 MAN: Yeah, come on.
 THEON: You're the crew of the Sea Bitch? I'm your commander. Welcome.
@@ -213,7 +213,7 @@ THEON: The Stony Shore's not far from Torrhen's Square.
 THEON:  No, we could. We could never hold it for more than a few days. As soon as Winterfell got word that we'd taken Torrhen's Square, the Starks would send their men to take it back. And then
 THEON pauses and the idea of how to take advantage of the betrayal comes to full. He laughs, and DAGMER smiles back.
 THEON: Take me to my ship.
-CUT TO: THE RIVERLANDS
+CUT TO THE RIVERLANDS
 INT. A CASTLE
 While ARYA prepares food, TYRION presides over his war council.
 REGINALD: The Starks have overextended their lines. Now that summer's over, they'll have a hard time keeping their men and horses fed.
@@ -269,7 +269,7 @@ JAQEN: A man needs a name.
 ARYA: I don't know his name. They call him the Tickler.
 JAQEN: That is enough. Go now, girl. Your master is thirsty.
 ARYA exits quickly.
-CUT TO: The North
+CUT TO The North
 EXT. A winter landscape. Some men pull a large sled. The Night's Watch marches, single file.
 JEOR: He's not here yet. He'd have seen us, blown the horn.
 JON: When will he come?
@@ -303,7 +303,7 @@ EDDISON TOLLETT: and GRENN start to walk off
 JON: Look. It's Qhorin Halfhand.
 EDDISON TOLLETT: Aye, we'll live another day. Hurrah.
 EDDISON TOLLETT leaves.
-CUT TO: KINGS LANDING
+CUT TO KINGS LANDING
 TYRION is in a basement, holding a pot of wildfire.
 HAYLENE: Take care, my lord.
 TYRION: I remember reading an old sailors' proverb, "Piss on wildfire and your cock burns off. "
@@ -328,7 +328,7 @@ HAYLENE forces open an ancient door. They enter a storeroom. TYRION is amazed at
 HAYLENE: We have been working tirelessly, day and night, ever since your royal sister commanded us to do so. Our present count stands at 7,811. Enough to burn Stannis Baratheon's fleet and armies both.
 BRONN: This is a shit idea.
 TYRION: I'm afraid I have to concur with my advisor, Wisdom Haylene. The contents of this room could lay King's Landing low. You won't be making wildfire for my sister any longer. You'll be making it for me.
-CUT TO: QARTH
+CUT TO QARTH
 DAENERYS and DOREAH are on a balcony with Drogon, one of the dragons.
 DAENERYS: Dracarys. Dracarys.
 The dragon spits forth a small flame which cooks the raw meat before him. The women laugh and applaud.He easts
@@ -388,7 +388,7 @@ QUAITHE: I know you. Jorah Mormont of Bear Island.
 JORAH: Who are you?
 QUAITHE: I'm no one. But she is the Mother of Dragons. She needs true protectors, now more than ever. They shall come day and night to see the wonder born into the world again. And when they see, they shall lust, for dragons are fire made flesh. And fire is power.
 QUAITHE leaves.
-CUT TO: WOODS IN THE SHADOWLANDS
+CUT TO WOODS IN THE SHADOWLANDS
 BRIENNE and CATELYN stand next to a stream, having stopped to water their horses.
 BRIENNE: It looked like Stannis.
 CATELYN: To me it just looked like... A shadow in the shape of a man.
@@ -417,7 +417,7 @@ CATELYN: When the time comes, I will not hold you back.
 BRIENNE draws her sword and kneels to pledge her loyalty.
 BRIENNE: Then I am yours, my lady. I will shield your back and give my life for yours, if it comes to that. I swear it by the Old Gods and the new.
 CATELYN:  I vow that you shall always have a place in my home and at my table and that I shall ask no service of you that might bring you dishonor. I swear it by the Old Gods and the new.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 INT. The main hall of Winterfell.
 RICKON cracks nuts while BRAN receives visitors. LUWIN sits at his side.
 WINTERFELL SHEPHERD: And it's not just thieves, my lord. There's wolves in them hills now, more than I ever seen. They come down in the night and they kill my sheep. My three sons is away fighting for your brother, my lord. They'll fight, keep fighting till they're told to go home. I have no one to man my flock now. Only me. I can't keep watch all day and all night.
@@ -461,7 +461,7 @@ OSHA: I've got to get these potatoes to the kitchen. Otherwise they'll put me in
 BRAN: Osha. The three-eyed raven, what do they say about it north of the Wall?
 OSHA: They say all sorts of crazy things north of the Wall.
 OSHA exits.
-CUT TO: NORTH OF THE WALL
+CUT TO NORTH OF THE WALL
 EXT. A winter storm howls as the Knight's Watchmen persevere.
 QHORIN: There.
 JEOR: Where?

@@ -22,7 +22,7 @@ DAENERYS:  You'll have to continue later. It's time.
 DAENERYS and BARRISTAN SELMY exit, followed by GREY WORM.
 EXT. MEEREEN.
 Overhead, the shadow of a flying dragon soars in the moonlight. On the ground, the Unsullied run through the rocky landscape. They strain to open a gate in the rockface. GREY WORM lights a torch as do the other Unsullied. They travel through the sewer tunnel.
-CUT TO: Meereen slave's quarters.
+CUT TO Meereen slave's quarters.
 Many slaves are gathered in the dark chamber, seating and standing.
 MOSSADOR: (speaking Valyrian.) You heard her! She said she came to free us.
 ELDER MEEREEN SLAVE:  (speaking Valyrian.)  You are a fool. The masters are too strong.
@@ -60,7 +60,7 @@ UNSULLIED #1: (shouts in Valyrian.)
 The Unsullied march forth, pressing the citizens of Meereen.
 BARRISTAN SELMY: Your Grace, may I have a word? The city is yours. All these people,they're your subjects now. Sometimes it is better to answer injustice with mercy.
 DAENERYS: I will answer injustice with justice.
-CUT TO: The shores of Meeeen.
+CUT TO The shores of Meeeen.
 An Unsullied nails a Meereen citizen to a cross. Others scream. They line the path up the mountainside, each with one hand nailed to the post, pointing the way. The citizens watch. DAENERYS stands on a platform above, surveying the city, under the Targaryen flag. The screams echo.
 EXT. King's Landing.
 BRONN and JAIME spar by the sea. JAIME attacks and BRONN parries. JAIME pauses, panting and spins his sword. His skills have improved. They exchange attacks. BRONN presses JAIME, and they deadlock. BRONN grabs JAIME's golden hand and swats him across the face. JAIME falls to the ground.
@@ -184,7 +184,7 @@ JANOS SLYNT: The bastard's well-liked.You're not.
 ALLISER THORNE: You think I care if they like me? We're at war.
 JANOS SLYNT:   For now. But you can't be acting commander forever. There will be a choosing. The old maester will insist on it. You might reconsider his request to marchon Craster's. Let the mutineer stake care of Snow. Or you might be taking orders from him the rest of your life.
 ALLISER THORNE exits.
-CUT TO: the yard armory
+CUT TO the yard armory
 JON returns his sword. RECRUIT joins him.
 LOCKE: A bastard, eh? Took you for highborn.
 JON: My father was highborn. My mother wasn't.
@@ -347,12 +347,12 @@ He brings CRASTER'S BABY to RAST.
 TANNER: Rast is headed that way.
 EXT. North of the Wall
 RAST carries CRASTER'S BABY. He places the baby on the ground and walks away. CRASTER'S BABY starts to cry.
-CUT TO: Craster's Keep.
+CUT TO Craster's Keep.
 RAST returns to the keep. Ghost growls in his cage. RASK opens a flask with his teeth.
 RAST: Pink-eyed fuck. You thirsty?
 He takes a drink. Ghost growls. RAST empties the flask in front of him. Ghost starts, and RAST falls back. After he stands, the birds sound and the snow cracks. RAST runs in terror.
 RAST: Fuck!
-CUT TO: Bran's camp
+CUT TO Bran's camp
 HODOR, BRAN, MEERA, JOJEN and Summer lay around the fire. CRASTER'S BABY's cries in the distance.
 HODOR: Hodor.
 BRAN: Do you hear that?
@@ -385,13 +385,13 @@ MEERA: If I'm not backsoon, we'll meet...
 A Ranger smashes MEERA in the face, and she falls. BRAN and JOJEN react. HODOR stands.
 HODOR: Hodor.
 They are surrounded by Night's Watch traitors.
-CUT TO: inside the keep.
+CUT TO inside the keep.
 The traitors yell and prod at HODOR, who is chained around his neck.
 HODOR: Hodor. Hodor. Hodor.
 HODOR tries to undo his bonds. A traitor stabs him in the leg, and he groans, falling back.
 HODOR: Hodor.
 RAST: If I was your size, I'd be king of the fucking world.
-CUT TO: Interior of the Keep
+CUT TO Interior of the Keep
 BRAN, MEERA and JOJEN are brought into the keep. BRAN falls to the ground when released.
 TANNER: Help him up.
 A traitor sits him up. TANNER comes over to BRAN, and fondles his furs.

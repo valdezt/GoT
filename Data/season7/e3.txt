@@ -72,7 +72,7 @@ DAVOS:  Apologies.  I have a Flea Bottom accent, I know.  But Jon Snow is King i
 DAENERYS:  Forgive me --
 TYRION:  Your Grace, this is Ser Davos Seaworth.
 DAERNEYS:  Forgive me, Ser Davos.  I never did receive a formal education, but I could have sworn the last King in the North was Torren Stark who bent the knee to my ancestor Aegon Targaryen in exchange for his life and the lives of the northmen.  Torren Stark swore fealty to House Targaryen in perpetuity.  But do I have my facts wrong?
-DAVOS:  I wasn't there, My Grace.
+DAVOS:  I wasn't there, Your Grace.
 TYRION:  Forever.
 DAENERYS:  Forever.  So I assume, My Lord, that you're here to bend the knee.
 JON:  I am not.
@@ -148,7 +148,7 @@ VARYS:  Our Iron Born and Dornish allies were attacked on route to Dorne.
 DAENERYS:  And?
 VARYS:  Two or three ships escaped.  The rest sunk our captured.  Ellaria and the sand snakes dead or captured.  The Greyjoys are dead or captured.
 DAENERYS:  All of them?
-CUT TO:  SEA OF DORNE
+CUT TO  SEA OF DORNE
 Theon is hanging on to flotsam on the ocean.  A friendly Greyjoy ship is pulling him out of the water with a rope.  They haul him onto the ship and drop him on deck.  He is shivering and dishelveled.  The captain of the boat approaches THEON and speaks to him while THEON is laying on the deck.
 CAPTAIN:  Your sister's dead?
 THEON:  Euron has her.
@@ -411,7 +411,7 @@ JORAH nods his head.
 JORAH:  Perhaps our paths will cross again?
 SAMWELL:  I hope they do.
 SAMWELL reaches out to shake JORAH's hand.  JORAH hesitates for a moment, then takes SAMWELL's hand.  JORAH places his second hand over SAMWELL's.  SAMWELL turns and walks out of the room leaving JORAH alone.  JORAH looks out the window and smiles.
-CUT TO:  ARCHMAESTER'S STUDY
+CUT TO  ARCHMAESTER'S STUDY
 MARWYN AND SAMWELL are having a discussion.
 MARWYN:  You treated him?
 SAMWELL:  Yes.
@@ -447,7 +447,7 @@ VARYS:  The Unsullied will be there soon.
 MISSANDEI:  And what will they face?
 VARYS:  A difficult situation.  They know we're coming.
 TYRION:  Yes.  Cersei believes my sole purpose in life is to destroy House Lannister.  She will be ready.
-CUT TO: CASTERLY ROCK
+CUT TO CASTERLY ROCK
 TYRION continues narrating as the castle is seen in the distance on top of some cliffs.
 TYRION:  No one has ever taken the rock.
 Lannister archers are shown on top of the battlements.  There are hundreds of ships sailing in the ocean heading to Casterly Rock.
@@ -480,7 +480,7 @@ GREY WORM turns to look out from the battlements towards the ocean.  The Unsulli
 GREY WORM:  Where are they?  Where are the rest of the Lannisters?
 Thousands of fully armored Lannister soldiers are marching towards Highgarden.  JAIME is riding his horse inspecting the lines of soldiers.  He rides over and joins BRONN, RANDYLL TARLEY and DICKON TARLEY.  The camera shifts focus to Lady Olenna who is watching the advancing army from a balcony in Highgarden.  She turns and walks back into her castle.
 Some time has passed.  The battle is already over.  JAIME is walking in the courtyard and there are dead Tyrell men scattered everywhere.  JAIME climbs to the top of the tower to meet OLENNA TYRELL.
-CUT TO:  OLENNA'S QUARTERS
+CUT TO  OLENNA'S QUARTERS
 Olenna is sitting alone at a table wearing all black.  JAIME opens the door and enters the room.
 OLENNA:  It's done?
 JAIME:  It is.

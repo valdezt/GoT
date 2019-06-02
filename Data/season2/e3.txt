@@ -35,7 +35,7 @@ SAM: Please. I want you to. My mother used it for sewing. She'd let me sit with 
 GILLY: You You shouldn't give it away.
 SAM: I'm not giving it away. I'm giving it to you. Keep it safe for me. Till I come back.
 Gilly takes the thimble, grabs her basket and flees. Sam smiles.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 EXT: Winterfell.
 The day begins in Winterfell. Maester Luwin encounters Hodor.
 HODOR: Hodor
@@ -51,7 +51,7 @@ Luwin shows his chain to Bran.
 LUWIN: This link is made of Valyrian steel. Only one maester in 100 wears it on his chain. It signifies that I have studied the higher mysteries. And all who study these mysteries try their hand at spells. I was no different. I was young. And what boy doesn't secretly wish for hidden powers to lift him out of his dull life into a special one? But in the end, for all my efforts, I got no more out of it than a thousand boys before me. Come on.
 LUWIN tucks BRAN into bed.
 LUWIN: All right. Maybe magic once was a mighty force in the world. But not anymore. The dragons are gone. The giants are dead. And the Children of the Forest forgotten.
-CUT TO: STORMLANDS
+CUT TO STORMLANDS
 EXT: Renly's war camp
 An exhibition fight between two armored knights (actually LORAS and BRIENNE) ensues, with RENLY and MARGAERY watching on. CATELYN and COLEN OF GREENPOOLS enter and watch from among the crowd. LORAS lands a solid blow.
 MARGAERY: Loras! Highgarden!
@@ -107,7 +107,7 @@ Renly departs. Brienne and Catelyn continue together.
 BRIENNE: If you'll follow me, my lady.
 CATELYN: You fought bravely today, Lady Brienne.
 BRIENNE: I fought for my king. Soon I'll fight for him on the battlefield. Die for him if I must. And, if it please you, Brienne's enough. I'm no lady.
-CUT TO: IRON ISLANDS
+CUT TO IRON ISLANDS
 INT: Throne room
 Theon looks around the throne room. Yara appears from the shadows behind him.
 THEON: What are you doing here?
@@ -145,7 +145,7 @@ YARA: You'd have our father bow down to your other family?
 THEON: I have no other family.
 YARA: Don't you? Make your choice, Theon, and do it quickly. Our ships sail with or without you.
 Yara leaves.
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 INT: Tyrion's Chambers
 Shae paces while Tyrion reads some parchment.
 SHAE: You won't let me leave this room. You won't let me -
@@ -251,7 +251,7 @@ LITTLEFINGER: (Nods.)
 TYRION: Good. Oh. And remember
 LITTLEFINGER: The Queen mustn't know.
 Tyrion drinks deeply and Littlefinger ponders.
-CUT TO: STORMLANDS
+CUT TO STORMLANDS
 INT: Renly's chambers at night
 Renly and Loras are kissing passionately. Renly brings Loras to the bed and sits astride him. He removes his own shirt, kisses him and undoes his shirt. He sees the heavy bruising on Loras's chest.
 RENLY: That must hurt.
@@ -293,7 +293,7 @@ MARGAERY: There's no need for us to play games. Save your lies for court. You're
 She sits next to him on the bed.
 MARGAERY: Your enemies aren't happy about us. They want to tear us apart. And the best way to stop them is to put your baby in my belly. We can try again later. You decide how you want to do it, with me, with me and Loras, however else you like. Whatever you need to do. You are a king.
 RENLY: (Sighs.)
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 INT: Cersei's chambers, at night
 CERSEl: You monster. Myrcella is my only daughter. Do you really think I'll let you sell her like a common whore?
 TYRION: Myrcella's a princess. Some would say she was born for this.
@@ -312,7 +312,7 @@ CERSEI:  No!
 TYRION: Just how safe do you think Myrcella is if this city falls? Do you want to see her raped, butchered like the Targaryen children? Make no mistake. They'll mount her pretty little head on a spike right beside yours.
 CERSEI: Get out! Get out!
 She moves to strike Tyrion, who recoils. Cersei turns, sits and weeps. Tyrion exits.
-CUT TO: IRON ISLANDS
+CUT TO IRON ISLANDS
 INT: Chamber, at night.
 Theon reads over a letter he has written to Robb. He decides to burn it instead.
 EXT: By the shore.
@@ -325,7 +325,7 @@ DROWNED PRIEST: Let Theon, your servant, be born again from the sea as you were.
 THEON: What is dead may never die.
 DROWNED PRIEST: What is dead may never die. But rises again harder and stronger. Stand.
 Theon stands. Balon and Yara look on.
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 INT: Tyrion's chambers, at night
 Tyrion sits and ponders. Littlefinger enters, enraged.
 LITTLEFINGER: I don't appreciate being made a fool of, dwarf. If Myrcella marries the Martell boy, she can't very well marry Robin Arryn, can she?
@@ -389,7 +389,7 @@ VARYS: But if it's swordsmen who rule, why do we pretend kings hold all the powe
 TYRION: I've decided I don't like riddles.
 VARYS: Power resides where men believe it resides. It's a trick, a shadow on the wall. And a very small man can cast a very large shadow.
 They both drink.
-CUT TO: RIVERLANDS
+CUT TO RIVERLANDS
 INT: the night's watch recruits sleep. Arya sharpens her sword. Yoren enters.
 YOREN: You should be sleeping. Tomorrow's a long march. Thirty miles, if it don't piss on us.
 ARYA: I can't sleep.

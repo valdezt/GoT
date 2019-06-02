@@ -107,7 +107,7 @@ ROOSE exits, and RAMSAY greets LOCKE. They walk together
 RAMSAY: I hear you took a hand from the Kingslayer.
 LOCKE: Word travels. How he screamed. You would have loved it.
 RAMSAY: (laughs)
-CUT TO: Dreadfort interior.
+CUT TO Dreadfort interior.
 ROOSE sits down by the fire, aching and exhausted from the ride. RAMSAY and THEON enter. A MAN stands in the background, sharpening a shaving razor against a strop.
 RAMSAY: Father.
 ROOSE rises to inspect THEON.
@@ -290,7 +290,7 @@ SHIREEN: There are no seven heavens and no seven hells?
 MELISANDRE: There's only one hell, Princess. The one we live in now.
 EXT: The North at night.
 Heavy breathing as the camera pans through the snowy woods. Suddenly, the camera lurches forward and comes upon a deer and the camera attacks viciously,  a wolf's hunt from the predator's point of view.  Hodor: Hodor.
-CUT TO: Bran awakening. HODOR, MEERA and JOJEN are with him. BRAN is frantic and panting.
+CUT TO Bran awakening. HODOR, MEERA and JOJEN are with him. BRAN is frantic and panting.
 BRAN: Why did you wake me?
 MEERA: You've been gone for hours.
 BRAN: I was hungry.
@@ -352,7 +352,7 @@ OBERYN: Hello.
 TYRION: Hello.
 OBERYN: Not you.
 OBERYN and ELLARIA are enthralled by a contortionist. TYRION and PODRICK walk on.
-CUT TO: The head table.
+CUT TO The head table.
 JOFFREY watches the party. OLENNA approaches SANSA.
 OLENNA: You look exquisite, child. The wind has been at you, though. I haven't had the opportunity to tell you how sorry I was to hear about your brother. War is war, but killing a man at a wedding, horrid. What sort of monster would do such a thing? As if men need more reasons to fear marriage.
 TYRION enters and sits.

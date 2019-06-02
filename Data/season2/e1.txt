@@ -102,7 +102,7 @@ TYRION: One?
 CERSEI: Arya, little animal, she disappeared.
 TYRION: Disappeared? What, in a puff of smoke? We had three Starks to trade. You chopped one's head off and let another escape. Father will be furious. It must be odd for you to be the disappointing child.
 Tyrion smirks, and takes a sip of his wine. Cersei looks away.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 EXT. OUTSIDE WINTERFELL
 A knight sits on a horse alone, holding a banner. Winterfell is seen in the background.
 LORD: My Lord, may the Old Gods watch over your brother and all our northern sons.
@@ -141,7 +141,7 @@ Osha places Bran on the ground. He begins crawling towards the edge of the pool.
 OSHA: The stars don't fall for men. The red comet means one thing, boy. Dragons.
 Bran looks at his reflection in the pool.
 BRAN: The dragons are all dead. They've been dead for centuries.
-CUT TO: ESSOS
+CUT TO ESSOS
 EXT. DESERT
 Some people walk through the desert. The camera pans up to reveal Daenerys, with Drogon on her shoulder, and her Khalasar. Daenerys attempts to feed Drogon some meat, but he refuses.
 DOREAH: What did your brother say about them, Khaleesi?
@@ -170,7 +170,7 @@ RAKHARO: (Speaking Dothraki) I will not fail you, blood of my blood.
 DAENERYS: You never have.
 RAKHARO: This is… bad time to start.
 Rakharo and the other two riders take off. Daenerys stares at the red comet, looking troubled.
-CUT TO: BEYOND THE WALL
+CUT TO BEYOND THE WALL
 EXT. WOODS
 The large party of Night’s Watchmen continue through the woods on horseback. Sam, Grenn, and Edd surround a sledge trapped in the snow on the side of the road.
 JON: Having a rough time of it?
@@ -244,7 +244,7 @@ JON: Jon Snow.
 LORD MORMONT: Who are you?
 JON: Your steward.
 LORD MORMONT: You want to lead one day? (Jon nods). Then learn how to follow.
-CUT TO: DRAGONSTONE
+CUT TO DRAGONSTONE
 EXT. BEACH
 The camera pans down from the red comet to Maester Cressen, holding a torch and running. Melisandre can be heard speaking in the distance.
 MELISANDRE: Lord of Light, come to us in our darkness. We offer you these false Gods.
@@ -301,7 +301,7 @@ Cressen stands up with the drugged glass of wine, and walks over to where Melisa
 CRESSEN: A cup of wine to honor the one true God.
 Melisandre stands up. Everyone at the table reaches for their own wine glasses. Cressen takes a sip of the drugged wine and offers it to Melisandre. Davos nervously watches her take the glass. Cressen begins to stumble and bleed from his nose. Melisandre drink a large portion of the wine. As he falls to the floor dead, Davos and many others stand up. Melisandre appears unphased by the poison.
 MELISANDRE: The night is dark and full of terrors, old man, but the fire burns them all away. Your Grace.
-CUT TO: NORTH
+CUT TO NORTH
 EXT. STARK CAMP
 The camera pans over a watchtower to a wide shot of the camp. In the camp, Robb stark is led by a man with a torch to where Jaime is being held. Robb enters Jaime’s cage, where he is tied to a wooden pole, a good distance from the walls of the cage.
 JAIME: King in the North. I keep expecting you to leave me in one castle or another for safekeeping, but you drag me along from camp to camp. Have you grown fond of me, Stark? Is that it? I've never seen you with a girl.
@@ -324,7 +324,7 @@ ROBB: No, but he's starting to know me.
 JAIME: Three victories don't make you a conqueror.
 ROBB: It's better than three defeats.
 Robb nudges Grey Wind towards Jaime and leaves the cage. Grey Wind growls in Jaime’s face and comes close to biting him. Jaime closes his eyes in preparation, but when he opens them back up, Grey Wind is gone.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. TYRION’S ROOM
 Shae looks out from the balcony in Tyrion’s room.
 SHAE: This city stinks Like dead bodies.
@@ -372,7 +372,7 @@ CERSEI: And which truth is that?
 BAELISH: Knowledge is power.
 CERSEI: Seize him. (Cersei’s guards seize Baelish). Cut his throat. (A guard holds a knife to Baelish’s neck). Stop. Wait. I've changed my mind. Let him go. (The guards let Baelish go). Step back three paces. Turn around. Close your eyes. (The guards do as Cersei says). (To Baelish) Power is power. Do see if you can take some time away from your coins and your whores to locate the Stark girl for me. I would very much appreciate it.
 Cersei walks away from Baelish, her guards following close behind. The servant boy scrubbing the floor looks up at Baelish.
-CUT TO: NORTH
+CUT TO NORTH
 INT. ROBB’S TENT
 ROBB: You're Ser Alton Lannister?
 ALTON: I am, Your Grace.
@@ -423,7 +423,7 @@ ROBB: We will all be together again soon, I promise.
 CATELYN: You've done so well. Your father would be proud.
 ROBB: (Pauses) Give Lord Renly my regards.
 CATELYN: King Renly. There's a king in every corner now.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. THRONE ROOM
 Cersei and her guards enter the throne room. Extensive work is being done, overseen by Joffrey.
 CERSEI: What is all this?
@@ -491,6 +491,6 @@ BLACKSMITH: They took him up the Kingsroad, heading north!
 JANOS: How will we know him?
 BLACKSMITH: He's got a bull's head helmet. He made it himself.
 JANOS: Find him.
-CUT TO: YOREN’S PARTY
+CUT TO YOREN’S PARTY
 EXT. A ROAD SURROUNDED BY TREES
 Gendry loads some things into a cart, and then helps Arya up onto the cart with him. The camera goes to a wide shot of the group Yoren is leading to the wall.

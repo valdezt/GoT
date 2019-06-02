@@ -1,4 +1,4 @@
-Title: The Children[Jon Snow leaves the tunnel and walks out into the snow. Smoking dead bodies lie all around him. As he walks into the forest he becomes surrounded by Wildlings. He has entered the Wildling camp unarmed]
+[Jon Snow leaves the tunnel and walks out into the snow. Smoking dead bodies lie all around him. As he walks into the forest he becomes surrounded by Wildlings. He has entered the Wildling camp unarmed]
 MANCE: You're wearing a black cloak again.
 JON: I've been sent to negotiate with you.
 [Mance and Jon enter Mance's tent and take a seat]
@@ -63,7 +63,7 @@ STANNIS: What do you think he'd have done with him?
 JON: I was this man's prisoner once. He could've tortured me, he could've killed me, but he spared my life. I think my father would've taken him prisoner, listened to what he had to say.
 STANNIS: Very well. *to Davos* Take him.
 JON: Your grace. If my father'd seen the things that I've seen, he'd also tell you to burn the dead before nightfall. All of them.
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 [Qyburn is seen closely analyzing Gregor's body. He's in Pycelle's lab with Cersei]
 PYCELLE: I would suggest milk of the poppy to ease his pain but he is completely insensate.
 CERSEI: Bloody Martells.
@@ -138,7 +138,7 @@ CERSEI: I don't want to talk about Tywin Lannister. I don't choose Tywin Lannist
 JAIME: Someone will walk in.
 CERSEI: I don't care.
 [Jaime picks Cersei up and lays her on the table as the start having sex.]
-CUT TO: MEREEN
+CUT TO MEREEN
 [Daenerys is sitting on her throne listening to her people's problems]
 MISSANDEI: *in Valyrian* You stand before Daenerys Stormborn, the Unburnt, Queen of Mereen, Queen of the Andals and the Rhoynar and the First Men. Khaleesi of the Great Grass Sea, Breaker of Chains and Mother of Dragons.
 FENNESZ: *in Valyrian* Thank you for seeing me, your grace. My name is Fennesz. I can speak the common tongue if you wish.
@@ -175,7 +175,7 @@ DAENERYS: Three. *in Valyrian* And still no word on Drogon?
 GREY WORM: *in Valyrian* Sailors saw him flying over the Black Cliffs three days ago, my queen. Nothing since then.
 DAENERYS: *in Valyrian* Meet me in the catacombs.
 [The entrance to the catacombs is rolled open. Daenerys' dragons enter followed by Daenerys. Inside there is food for them. They chomp at the food as Daenerys puts a chain collar around their necks. She walks away crying as they screech at her. She turns around as the catacombs close with tears in her eyes.]
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 [Aemon and the rest of the Night's Watch burn the bodies of their fallen comrades]
 AEMON: They came to us from White Harbor and Barrowton, from Fairmarket and King's Landing, from north and south, from east and west. They died protecting men, women, and children who will never know their names. It is for us to remember them. Our brothers, we shall never see their like again.
 ALL TOGETHER: And now their watch is ended.
@@ -203,7 +203,7 @@ TORMUND: Snow. Did you love her? She loved you.
 JON: She told you?
 TORMUND: No. All she ever talked about was killing you. That's how I know. She belongs in the North. The real North. You understand me?
 [Jon leaves and takes Ygritte's body out past The Wall. He burns her body in a pile of logs.]
-CUT TO: BEYOND THE WALL
+CUT TO BEYOND THE WALL
 [Hodor drags Bran through the snow followed by Jojen and Meera Reed]
 MEERA: We can stop, we can rest.
 JOJEN: We'll rest with the three-eyed raven.
@@ -240,7 +240,7 @@ BRAN: I didn’t want anyone to die for me.
 OLD MAN: He died so that you could find what you have lost.
 BRAN: You’re going to help me walk again?
 OLD MAN: You’ll never walk again. But you will fly.
-CUT TO: THE RIVERLANDS
+CUT TO THE RIVERLANDS
 [Brienne and Podrick wake up in the open air on their way to the Eyrie.]
 BRIENNE: Podrick. Podrick! Where are the horses?
 PODRICK: I hobbled them last night.
@@ -317,7 +317,7 @@ ARYA: I’ll last longer than you.
 HOUND: You remember where the heart is? Fuck it. I’m ready. Go on, girl. Another name off your list. You kept promising me. I cut down your butcher’s boy, the ginger. He was begging for mercy. Please sir, please don’t kill me, please, please. Bled all over my horse. Saddle stunk of butcher’s boy for weeks. And your sister, your pretty sister. I should’ve taken her. That night the Blackwater burned, I should’ve fucked her bloody. At least I’d have one happy memory! Do I have to beg you? Do it. Do it.
 [Arya stands up, takes The Hound’s coin purse, and walks away.]
 HOUND: Kill me. Kill me! Kill me! Kill me!
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 [We enter Tyrion’s cell. The door opens.]
 TYRION: Oh, get on with it you son of a whore.
 JAIME: Is that any way to speak about our mother?
@@ -362,7 +362,7 @@ TYRION: I am your son. I have always been your son.
 [Tyrion fires again.]
 VARYS: What have you done? Quickly. Trust me, my friend, I’ve brought you this far.
 [Varys loads Tyrion, in a transport container, onto a ship. He goes to walk back to King's Landing, but turns around and boards the ship himself]
-CUT TO: THE RIVERLANDS
+CUT TO THE RIVERLANDS
 [We go back to Arya, alone. She rides her horse to a small port.]
 ARYA: I want to see the captain.
 CAPTAIN: You’re seeing him.

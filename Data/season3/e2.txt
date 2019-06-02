@@ -265,7 +265,7 @@ MANCE: Do you know what it takes to unite 90 clans, half of whom want to massacr
 JON: No.
 MANCE: I told them we were all going to die if we don't get south. Because that's the truth.
 MANCE starts walking again.
-CUT TO: A crag next to the marching forces.
+CUT TO A crag next to the marching forces.
 MANCE and JON join TORMUND, YGRITTE and ORREL. ORREL sits, eyes white, looking up to a raven.
 TORMUND: Shouldn't be long now.
 JON: What's wrong with him?
@@ -607,7 +607,7 @@ BRIENNE: Silence, Kingslayer.
 JAIME: Anyone can see us on the bridge, but cross by water and the current could take us or I could escape down the river.
 BRIENNE: Good luck.
 JAIME: It's wonderful to watch you wrestle with these dilemmas. Which will she choose?
-CUT TO: The bridge.
+CUT TO The bridge.
 BRIENNE and JAIME have chosen the bridge.
 JAIME: Gambler at heart. Wouldn't have guessed.
 BRIENNE: Be quick about it.

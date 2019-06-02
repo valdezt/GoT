@@ -147,7 +147,7 @@ ARYA: He's never been the same.
 FARMER HAMLET: Which house did he fight for?
 ARYA: The Tullys of Riverrun.
 FARMER HAMLET: There's a storm coming. You'll be wanting a roof tonight. There's fresh hay in the barn. And Sally here makes rabbit stew just like her mom used to do. We don't have much, but any man that bled for House Tully is welcome to it.
-CUT TO: FARMER'S HOME.
+CUT TO FARMER'S HOME.
 Thunder rumbles and the rain patters. FARMER HAMLET and SALLY host ARYA and the HOUND for dinner.
 FARMER HAMLET: We ask the Father to judge us with mercy accepting our human frailty. We ask the Mother to bless our crops so we may feed ourselves and all who come to our door. We ask the Warrior to give us courage in these days of strife and turmoil. We ask the Maiden to protect Sally's virtue to keep her from the clutches of depravity.
 HOUND: You got to do all seven of the fuckers?
@@ -470,7 +470,7 @@ INT. THE GATE TO THE WALL
 The heavy gate is opening, showing winter beyond. JON, PYP and the rangers help DOLOROUS EDD and GRENN.
 JON: Help him.
 DOLOROUS EDD: Thought you'd have blue eyes by now.
-CUT TO: The courtyard.
+CUT TO The courtyard.
 JON helps DOLOROUS EDD and GRENN to the courtyard. ALLISER THORN and JANOS SLYNT walk up
 ALLISER THORN: What took you so long?
 GRENN: We were held up.

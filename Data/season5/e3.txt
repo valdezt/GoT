@@ -1,5 +1,4 @@
-TITLE SEQUENCE
-CUT TO: BRAAVOS
+TITLE SEQUENCECUT TO BRAAVOS
 INT. THE HOUSE OF BLACK AND WHITE
 Water drips down a statue of a woman with her eyes closed. Two more statues are shown, a lion sitting in a throne, and a rams head. Behind a large heart surrounded by gold flames, a glowing fire can be seen. A statue of a knight is shown, then a statue of a king’s face. A statue of a contorted tree is covered in a hair-like substance. There is a large pit filled with liquid in the center of the room. Arya can be heard, and then seen, sweeping. The waif carries a bucket past her. Sitting on the edge of the pit, Jaqen whisper to a man. Arya looks up and watches as Jaqen scoops up a cup of liquid from the pit, and hands it to the man. The man looks up at Jaqen, and hesitates before taking it.
 MAN: Valar morghulis.
@@ -18,7 +17,7 @@ JAQEN: There is only one god. A girl knows his name. And all men know his gift.
 Jaqen leaves. Arya looks down at the man who had been kneeling. He is lying on his back, dead. Two men come into the room with a stretcher. They places the man’s body on it and begin walking to an open door at the end of the room. The waif walks past Arya.
 ARYA: Where are they taking him?
 The waif doesn’t respond, but continues walking. Arya turns to watch as the door closes behind the men carrying the stretcher.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 EXT. STREET
 Bells are ringing, and people are cheering and shouting. Many are on the sides of the road, waving as a number of carriages are carried past.
 BYSTANDERS: Queen Margaery! Queen Margaery! Queen Margaery!
@@ -89,7 +88,7 @@ CERSEI: Won’t that be a lovely day.
 MARGAERY: Can you imagine the celebrations? They'll ring the bells all day and night.
 CERSEI: Remember. Anything you need.
 Margaery smiles. Cersei leaves. Margaery’s smile fades. It returns when her friends begin laughing, and she turns back around. Cersei walks away with her two guards, still able to hear the laughter.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 EXT. COURTYARD
 A horse whinnies. Bolton bannermen ride to the keep. In the keep, a number of workmen are busy building and repairing things. Some men carry some raven cages through the middle of the courtyard. Theon, carrying a dead bird, walks through for a moment. He then comes across some soldiers lifting up some flayed bodies with rope. He becomes very tense and forces himself to keep walking, head down. A raven picks at a body in a cart.
 INT. DINING HALL
@@ -108,7 +107,7 @@ Ramsay, who had been heavily engrossed in his eating, stops suddenly and looks u
 ROOSE: We don't have enough men to hold the North if the other Houses rise up against us. Do you understand that?
 RAMSAY: Our pact with the Lannisters protects -
 ROOSE: I had a pact with Tywin Lannister, and Tywin Lannister is dead. The remaining Lannisters are a thousand miles away dealing with that fact. They've never once in the history of the Seven Kingdoms sent their army this far north. If you think they will for us, you're a fool. We become a great house by entering in alliances with other houses, and parleying those alliances into greater power. The best way to forge a lasting alliance isn't by peeling a man's skin off. The best way is marriage. (Stands up). Now that you're a Bolton by royal decree, it's time you married a suitable bride. And as it happens, I found the perfect girl to solidify our hold in the North.
-CUT TO: MOAT CAILIN
+CUT TO MOAT CAILIN
 EXT. NEARBY HILLS
 Sansa, Baelish, and a number of knights ride towards Moat Cailin. The party stops. Baelish leads Sansa on foot to a spot where they can easily overlook the keep. The keep is shown, surrounded by swampy riverlands.
 SANSA: That's Moat Cailin.
@@ -168,7 +167,7 @@ PODRICK: But wasn't he... Lord Tyrion said he was...
 BRIENNE: Yes, Pod, he liked men, I'm not an idiot. He didn't love me, he didn't want me, he danced with me because he was kind and he wouldn't see me hurt. He saved me from being a joke. From that day until his last day. And I couldn't save him in return. Nothing's more hateful than failing to protect the one you love. One day, I will avenge King Renly.
 PODRICK: But you said a shadow murdered him. How do you fight a shadow?
 BRIENNE: A shadow with the face of Stannis Baratheon. I know it was Stannis. I know it in my heart. Stannis is a man, not a shadow. And a man can be killed.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 INT. LORD COMMANDER’S ROOM
 Olly opens the door for Stannis and Davos. Jon sits at his desk.
 STANNIS: Lord Commander.
@@ -213,7 +212,7 @@ DAVOS: Wait, that's enough. “The shield that guards the realm of men.” That'
 JON: And what needs to be done?
 DAVOS: As long as the Boltons rule the North, (Stands up), the North will suffer. Just one man's opinion.
 Davos nods and turns to leave. Olly opens the door for him. Jon sits at his desk and sighs.
-CUT TO: BRAAVOS
+CUT TO BRAAVOS
 INT. ARYA’S ROOM
 Arya lays on her bed, playing with her coin in her hand. Suddenly, the door opens, and she sits up. The waif enters with a cane, and begins pacing.
 ARYA: What do you want?
@@ -243,7 +242,7 @@ INT. THE HOUSE OF BLACK AND WHITE
 Arya is again sweeping the floor in the main room. She notices the men from the beginning of the episode carrying another dead body into the back room. However, after a moment, she realizes that she didn’t hear the door close, and she looks up to find it wide open. Jaqen surprises her by suddenly putting his hand on her shoulder. He nods towards the door, and begins walking over to it. Arya follows him, leaving the broom outside. They go down a fire-lit tunnel. Jaqen opens the door at the end of the tunnel to reveal a chamber. Inside, the waif stands motionless next to a large stone slab. On it is the dead man. Jaqen leaves through the back door. After Jaqen closes the door, the waif begins to remove the dead man’s clothes. She looks up at Arya, who walks over and begins to do so as well. The waif inspects his body. She wets a rag and begins cleaning off the man.
 ARYA: What do we do with them after we wash them?
 The waif only looks up and smiles lightly, making no other response. She goes back to washing him, and Arya wets a rag of her own to help.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 EXT. COURTYARD
 MAN: Open gates!
 The gates are opened. Sansa, Baelish, and a number of knights on horseback gallop through. They stop. Theon watches from nearby through some metal bars, trembling. Baelish gets off of his horse. Roose, Ramsay, and Walda watch as Sansa gets off hers. Roose walks forward. Baelish leads Sansa towards him, rubbing her hands.
@@ -260,7 +259,7 @@ WOMAN: I'll bring you a bowl of hot water. You must want to wash.
 SANSA: Thank you.
 WOMAN: Welcome home, Lady Stark. (Quieter) The North remembers.
 Sansa watches as the woman leaves.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 INT. DINING HALL
 Jon sits at a table, tapping his fingers anxiously. The men in the room talk amongst themselves.
 JON: Sam. (Sam looks up. Jon looks at Maester Aemon’s chair). Maester Aemon?
@@ -292,7 +291,7 @@ Jon takes a final sip of his wine, gets up, and goes outside. The watchmen all g
 JON: If you have any last words, my Lord, now is the time.
 JANOS: (Trembling). I was wrong. You're the Lord Commander! We all serve you. I'm sorry. Not only for this, for all I've done and said. I was wrong! (Jon brings his sword up). My Lord, please, mercy! Mercy! I'll go! I will! Please. I'm afraid. I've always been afraid.
 Janos sobs for a few moments. Jon hesitates, and then brings his sword down, decapitating Janos. He hands his sword to a watchman standing nearby. He looks up and makes eye contact with Stannis.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. BROTHEL
 The High Septon kneels in the center of a room. Seven prostitutes, dressed as each of the new gods, circle around him. Olyvar stands behind the High Septon, wearing a fake beard and holding a scale. The prostitutes giggle as the High Septon eyes them all.
 OLYVAR: You have served us well, my son.
@@ -368,7 +367,7 @@ QYBURN: More than I've expected. Still a way to go, but…
 CERSEI: Very good. I'll leave you to it then. Make sure Littlefinger is clear on the meaning of the word "immediately".
 Cersei leaves the room. Qyburn begins writing something down. Behind him on a table is a large object, covered by a sheet. After a few moments of writing, the object begins violently jerking around, and then stops.
 QYBURN: Shh. Easy, friend.
-CUT TO: WINTERFELL
+CUT TO WINTERFELL
 COURTYARD
 Sansa walks through the busy courtyard. Theon is shoveling dirt nearby. He looks up to see her walking in his direction, and looks away, tense. On a platform above, Ramsay and Baelish stand, watching her.
 RAMSAY: She really is lovely. I hope I can make her happy.
@@ -395,7 +394,7 @@ ROOSE: I had Tywin Lannister backing. Who supports me now? You?
 BAELISH: The Eyrie is mine. The last time the lords of the Eyrie formed an alliance with the lords of the North, they brought down the greatest dynasty this world has ever known. I'd like to borrow one of your birds. Cersei will expect a reply.
 ROOSE: I'd like to read the reply.
 Roose walks away.
-CUT TO: VOLANTIS
+CUT TO VOLANTIS
 INT. VARYS AND TYRION’S CARRIAGE
 Tyrion repeatedly opens and closes a window.
 TYRION: I have to get out of this wheelhouse.

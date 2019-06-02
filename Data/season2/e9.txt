@@ -1,9 +1,9 @@
 EXT. THE SEA AT NIGHT
 STANNIS's fleet sails through the night.
 DAVOS walks the deck, and looks out the stern at the rest of the ships.
-CUT TO: STANNIS looks ahead
-CUT TO: Soldiers sitting below, tired and waiting. One vomits from sea sickness.
-CUT TO: MATTHOS and DAVOS above deck.
+CUT TO STANNIS looks ahead
+CUT TO Soldiers sitting below, tired and waiting. One vomits from sea sickness.
+CUT TO MATTHOS and DAVOS above deck.
 MATTHOS: That's it. The tide's against us.
 DAVOS: Aye, but we have the wind. She'll blow us straight to the gates.
 MATTHOS: You're coming home.
@@ -175,13 +175,13 @@ HOUND: The king has asked you a question.
 TYRION: Ser Lancel, tell the Hound to tell the king that the Hand is extremely busy. LANCEL: The Hand of the King would like me to tell you to tell the king-
 JOFFREY: If I tell the Hound to cut you in half, he'll do it without a second thought.
 TYRION: That would make me the quarterman. It just doesn't have the same ring to it. Cut me in half and I won't be able to give the signal. No signal, no plan. No plan and Stannis Baratheon sacks this city, takes the Iron Throne, puts your pinched little head atop a gate somewhere. It might be quite amusing, except that my head would be up there, too. I've never much liked my head, but I don't want to see it removed just yet.
-CUT TO: STANNIS'S FLEET
+CUT TO STANNIS'S FLEET
 DAVOS: Where are their ships?
 MATTHOS: It was wise to attack at night. We took them by surprise.
 DAVOS: Lord Varys knows what you had for breakfast three days ago. There are no surprises here.
 MATTHOS: If it's true there is dissension in their ranks, maybe their sailors have mutinied.
 DAVOS: Maybe.
-CUT TO: MAEGOR'S HOLDFAST
+CUT TO MAEGOR'S HOLDFAST
 CERSEI and TOMMEN join the  highborn ladies.  They walk past SHAE and SANSA.
 SANSA: I don't know why she wants me here. She's always saying how stupid I am. She hates me.
 SHAE: Maybe she hates you less than she hates everyone else.
@@ -206,7 +206,7 @@ He bows and moves to ILYN PAYNE, then exits the chamber.
 CERSEI: The only way to keep the small folk loyal is to make certain they fear you more than they do the enemy. Remember that if you ever hope to become a queen.
 SANSA: You said he was here to protect us.
 CERSEI: He is. Traitors are a danger to us all. More wine.
-CUT TO: THE WALL OUTSIDE THE HARBOR
+CUT TO THE WALL OUTSIDE THE HARBOR
 TYRION, JOFFREY, the HOUND and LANCEL look out across the foggy sea.
 JOFFREY: There they are.
 TYRION: Archers to their marks.
@@ -222,7 +222,7 @@ SOLDIER: Boulders ready!
 SOLDIER #2: Hold fast!
 There is but one ship sailing out of the harbor.
 JOFFREY: There's only one ship. Where are the rest of them? Where are the rest of them?
-CUT TO: THE BARATHEON FLEET
+CUT TO THE BARATHEON FLEET
 MATTHOS and DAVOS watch the lone ship approaching
 MATTHOS: There's only one ship.
 The soldiers get set.
@@ -231,26 +231,26 @@ DAVOS: Draw! Hold.
 MAN: Hold.
 They watch the ship sail by. It is unmanned.
 DAVOS: (confused) There's no one on board.
-CUT TO: THE HARBOR WALL
+CUT TO THE HARBOR WALL
 MAN: More rocks coming up!
 HAYLENE climbs the stairs. TYRION looks back at him. HAYLENE lights a torch and hands it to TYRION.
-CUT TO: THE BARATHEON FLEET
+CUT TO THE BARATHEON FLEET
 MAN: Hold.
 As the empty ship sails past, DAVOS sees that it is spewing green liquid into the sea behind it
 DAVOS: Wildfire. Steer clear! Steer clear!
-CUT TO: HARBOR WALL
+CUT TO HARBOR WALL
 TYRION throws the torch over the side of the wall. BRONN gets the signal, lights his arrow ablaze and launches it high into the sky.
-CUT TO: BARATHEON FLEET   The flaming arrow soars over DAVOS's boat and hits the wildfire in the water, which erupts in green flame. The flames crawl towards the ghost ship.
+CUT TO BARATHEON FLEET   The flaming arrow soars over DAVOS's boat and hits the wildfire in the water, which erupts in green flame. The flames crawl towards the ghost ship.
 DAVOS: Matthos! Get down!
 A huge explosion. The ghost ship explodes ferociously, overwhelming MATTHOS and many other soldiers. STANNIS recoils from the blast
-CUT TO: HARBOR WALL
+CUT TO HARBOR WALL
 JOFFREY shields his eyes from the blast. HAYLENE seems pleased. The HOUND is resolute.
-CUT TO: HARBOR
+CUT TO HARBOR
 BRONN watches the explosions.
-CUT TO: BARATHEON FLEET  The explosion engulfs the fleet. Meet scream in agony, devoured in green flame, some jumping overboard. The immensity of the explosion is stunning. Chaos ensues on board as the ships collapse.
-CUT TO: HARBOR WALL
+CUT TO BARATHEON FLEET  The explosion engulfs the fleet. Meet scream in agony, devoured in green flame, some jumping overboard. The immensity of the explosion is stunning. Chaos ensues on board as the ships collapse.
+CUT TO HARBOR WALL
 TYRION, PODRICK, the HOUND and JOFFREY watch. HAYLENE smiles. TYRION is horrified.
-CUT TO: BARATHEON FLEET
+CUT TO BARATHEON FLEET
 STANNIS's ship is unharmed. He gets to his feet and surveys the massive destruction. Men scream, masts collapse.
 STANNIS: Prepare to land.
 SOLDIER: Your Grace.
@@ -262,7 +262,7 @@ STANNIS: Thousands.
 STANNIS descends from the upper deck and addresses his troops.
 STANNIS: Come with me and take this city!
 The men yell in agreement.
-CUT TO: MAEGOR'S HOLDFAST
+CUT TO MAEGOR'S HOLDFAST
 CERSEI is a bit drunk, and still drinking wine.
 CERSEI: Sansa, come here, little dove.
 SANSA: My queen. What are you doing? Praying.
@@ -296,10 +296,10 @@ CERSEI: Have I shocked you, little dove? Tears aren't a woman's only weapon. The
 They both drink.
 CERSEI: Do you have any notion of what happens when a city is sacked? No, you wouldn't, would you? If the city falls, these fine women should be in for a bit of a rape. Half of them will have bastards in their bellies come the morning. You'll be glad of your red flower then. When a man's blood is up, anything with tits looks good. A precious thing like you will look very, very good. A slice of cake just waiting to be eaten.
 CERSEI takes a drink, and SANSA joins her, panicking.
-CUT TO: THE HARBOR
+CUT TO THE HARBOR
 Landing boats from the ships row towards the shore.
 MAN: More pressure! Pull! Pull! That's it, men! Pull! Pull!
-CUT TO: THE HARBOR WALL
+CUT TO THE HARBOR WALL
 TYRION: He's a serious man, Stannis Baratheon.
 JOFFREY: They're coming. They're coming ashore.
 TYRION: Rain fire on them.
@@ -307,31 +307,31 @@ MAN: Archers!
 JOFFREY: There are too many.
 TYRION: Hound, form a welcome party for any Baratheon troop that manages to touch solid ground. Pod, run to the King's Gate. Bring any men guarding it here, now.
 PODRICK: Yes, my lord.
-CUT TO: BELOW THE HARBOR WALL
+CUT TO BELOW THE HARBOR WALL
 HOUND: Let's go. Stannis is sending us fresh meat. You, too.
 The HOUND punches LANCEL in chest as he walks past. LANCEL is stunned.
 HOUND: Any of these flaming fucking arrows come near me, I'll strangle you with your own guts.
-CUT TO: THE HARBOR
+CUT TO THE HARBOR
 MEN: Pull, pull! Go!
-CUT TO: THE HARBOR WALL
+CUT TO THE HARBOR WALL
 The archers prepare to fire.
 SOLDIER: Nock! Draw!
 MEN: Draw!  Draw!
-CUT TO: THE HARBOR
+CUT TO THE HARBOR
 STANNIS's men have reached the shore.
 MEN: Kill the Lannisters!
-CUT TO: THE HARBOR WALL
+CUT TO THE HARBOR WALL
 The archers let their flaming arrows fly.
-CUT TO: THE HARBOR
+CUT TO THE HARBOR
 The arrows land as the soldiers rush from the boats to the shore.
 MAN: Form the line!
 The arrow land. Some hit there mark. Some Baratheon men fall while others pour ashore.
-CUT TO: THE HARBOR WALL
+CUT TO THE HARBOR WALL
 MEN:  Draw!  Draw!  Loose! Loose!
 The archers release more salvos. STANNIS's forces take heavy casualties, but they do not give up. Yelling, the first of them make it to base of the harbor wall. Above them, Lannister forces drop rocks, which crush the skulls of the unlucky. STANNIS himself gets sprayed with the blood of his bludgeoned soldier. They place their shields above their heads.
 STANNIS: To the Mud Gate, go now!
 MEN: First and second squads, to the gate! To the Mud Gate!
-CUT TO: INSIDE THE HARBOR WALL
+CUT TO INSIDE THE HARBOR WALL
 The HOUND leads a charge of Lannister men.
 HOUND: Any man dies with a clean sword, I'll rape his fucking corpse. He and LANCEL engage with the sieging forces. They each cut down a number of Baratheon men before LANCEL is struck in the chest by an arrow. He stumbles and screams. Panting, he retreats.
 INT: MAEGOR'S HOLDFAST   CERSEl: When we were young, Jaime and I, we looked so much alike even our father couldn't tell us apart. I could never understand why they treated us differently. Jaime was taught to fight with sword and lance and mace, and I was taught to smile and sing and please. He was heir to Casterly Rock, and I was sold to some stranger like a horse to be ridden whenever he desired.
@@ -378,11 +378,11 @@ The HOUND decimates his foes as the chaos of battle continues. Both sides take b
 MAN: Help me!
 BRONN quickly dispatches some more Baratheon men with his knife. The HOUND is in a bit of a daze, overwhelmed by the fires, reliving his own trauma. He turns and re-enters the gates. Many of the Lannister forces follow.
 MAN: Fall back! Fall back!
-CUT TO: STANNIS ON THE HARBOR SHORE
+CUT TO STANNIS ON THE HARBOR SHORE
 Stannis continues to be trapped under his shield at the base of the wall.
 STANNIS: Get the ladders up!
 His forces bring ladders to the wall. They set them, and STANNIS begins to climb, dodging rocks. He makes it to the top and engages with the Lannister forces atop the wall.
-CUT TO: COURTYARD BEHIND THE HARBOR WALL
+CUT TO COURTYARD BEHIND THE HARBOR WALL
 MAN: Faster, you bastards! Faster! Come on, kill the scum!
 The HOUND is still in a daze.
 HOUND: Someone bring me a drink.
@@ -398,7 +398,7 @@ The HOUND looks down, defeated.
 TYRION: You're Kingsguard, Clegane. You must beat them back or they're going to take this city. Your king's city.
 HOUND: Fuck the Kingsguard. Fuck the city. Fuck the king.
 The HOUND exits.
-CUT TO: THE HARBOR
+CUT TO THE HARBOR
 More boats come ashore. The soldiers overturn the boat to use it as protection from the arrows.
 MAN:  Loose!
 MAN #2: Put your backs into it!
@@ -411,7 +411,7 @@ While the overturned boat makes slow progress, another group of men with a batte
 MAN: Forward ladders!
 Another ladder is raised against the wall. The boat is placed over the ram. Meanwhile, men are crushed by thrown rocks.
 MEN: Heave! Heave!
-CUT TO: BEHIND THE WALL
+CUT TO BEHIND THE WALL
 LANCEL runs to join the royal group.
 LANCEL: Your Grace, the queen has sent me to bring you back to the Red Keep.
 TYRION: If you won't defend your own city, why should they?
@@ -439,18 +439,18 @@ MAN #2:  What are you talking about?
 TYRION: Pod, my helmet. Ser Mandon, you will bear the king's banner. Men, form up. Men Men! They say I'm half a man. But what does that make the lot of you?
 MAN: The only way out is through the gates. And they're at the gates.
 TYRION: There's another way out. I'm going to show you. We'll come out behind them and fuck them in their arses.
-CUT TO: BASE OF THE HARBOR WALL
+CUT TO BASE OF THE HARBOR WALL
 The battering ram pounds relentlessly into the wooden door.
 MEN: Heave! Heave!
-CUT TO: BEHIND THE WALL
+CUT TO BEHIND THE WALL
 TYRION: Don't fight for your king and don't fight for his kingdoms. Don't fight for honor. Don't fight for glory. Don't fight for riches, because you won't get any. This is your city Stannis means to sack. That's your gate he's ramming. If he gets in, it will be your houses he burns, your gold he steals, your women he will rape.
-CUT TO: BASE OF THE HARBOR WALL
+CUT TO BASE OF THE HARBOR WALL
 The battering ram is making progress.
 MEN: Heave! Heave! Heave!
-CUT TO: BEHIND THE WALL
+CUT TO BEHIND THE WALL
 TYRION: Those are brave men knocking at our door. Let's go kill them.
 The Lannister forces raise their swords and shout in support. TYRION strides off, and they follow.
-CUT TO: MAEGOR'S HOLDFAST
+CUT TO MAEGOR'S HOLDFAST
 CERSEI and TOMMEN sit. LANCEL reports.
 LANCEL: The battle is lost, Your Grace. Stannis' troops are at the gates. When the gold cloaks saw the king leaving, they lost all heart.
 CERSEI: Where is my son?
@@ -470,7 +470,7 @@ SHAE: No one is raping me.
 SHAE reveals a dagger bound her her calf, beneath he dress.
 SHAE: Go. Run.
 SANSA turns and exits qucikly.
-CUT TO: SANSA'S CHAMBERS
+CUT TO SANSA'S CHAMBERS
 SANSA moves fleetly through the corridor. She enters her chambers and bolts the door. She picks up a doll.
 HOUND: The lady is starting to panic.
 She turns around in fright to find the HOUND sitting quietly in the corner.
@@ -490,9 +490,9 @@ HOUND: Look at me. Stannis is a killer. The Lannisters are killers. Your father 
 SANSA: You won't hurt me.
 HOUND: No, little bird, I won't hurt you.
 The HOUND turns and unlocks the door. SANSA considers whether to join him.
-CUT TO: THE SEWERS
+CUT TO THE SEWERS
 TYRION uses his axe to remove the chain from the sewer's gate. He steps out onto the shore and the Lannister men follow quietly.
-CUT TO: BASE OF THE HARBOR WALL
+CUT TO BASE OF THE HARBOR WALL
 The battle rages. The ram has made further progress. Flaming arrows still rain down.
 MEN: Heave!
 MAN: Come on, you bastards! Get up those ladders!
@@ -504,11 +504,11 @@ They overturn the boat, and someone above drops a torch inside to set it aflame.
 ALL: Halfman! Halfman! Halfman!
 TYRION turns around to see a host of soldiers coming upon them from the short. The battle begins again.
 TYRION: Oh, fuck me.
-CUT TO: ATOP THE WALL
+CUT TO ATOP THE WALL
 STANNIS continues to wage brutal war agains the Lannister men atop the wall
-CUT TO: BASE OF THE HARBOR WALL
+CUT TO BASE OF THE HARBOR WALL
 TYRION battles a soldier with a mace. The soldier gains the advantage, but is then tackled by one of TYRION's men. He smiles, while a Baratheon knight notices him and walks forward. He swings his sword at TYRION, and slices open his cheek. TYRION reels. Suddenly, a spear pierces the knight's face. He falls to reveal PODRICK wielding the fatal weapon. TYRION goes into shock, and PODRICK catches him
-CUT TO: THE THRONE ROOM
+CUT TO THE THRONE ROOM
 CERSEI and TOMMEN sit in the dark on the iron throne.
 CERSEI: Shh! Be calm, my sweet.
 TOMMEN: They're still fighting.
@@ -519,32 +519,32 @@ TOMMEN: Like what?
 CERSEI: Like stags.
 TOMMEN: Stags aren't evil. They only eat grass.
 CERSEI: And wolves.
-CUT TO: THE HARBOR SHORE
+CUT TO THE HARBOR SHORE
 PODRICK holds TYRION, who remains in shock.
 PODRICK: My lord.
 Another wave of soldiers approaches from the shore. Some are mounted.    CERSEl: He could hear them howling in the night. The little cub was frightened. His mother said, "You are a lion, my son. You mustn't be afraid.
 Stannis looks down from his perch. The mounted soldiers attack.
-CUT TO: THE THRONE ROOM
+CUT TO THE THRONE ROOM
 CERSEI: "For one day, all the beasts will bow to you. "You will be king. "All the stags will bow. All the wolves will bow. "The bears in the north and the foxes of the south, "all the birds in the sky and the beasts in the sea, "they will all come to you, little lion, "to rest a crown upon your head.
-CUT TO: THE HARBOR SHORE
+CUT TO THE HARBOR SHORE
 The battle rages. The mounted soldiers have the advantage.
-CUT TO: THE THRONE ROOM
+CUT TO THE THRONE ROOM
 CERSEI: " And the cub said, "Will I be strong and fierce like my father?"
 CERSEI uncorks the vial she holds.
 CERSEI: "Yes," said his mother. "You will be strong and fierce just like your father.
-CUT TO: THE HARBOR SHORE
+CUT TO THE HARBOR SHORE
 TYRION passes out
-CUT TO: THE THRONE ROOM
+CUT TO THE THRONE ROOM
 CERSEI presents the vial for TOMMEN to drink.
 CERSEI: " I will keep you safe, my love. I promise you.
 The chamber door burst open and CERSEI and TOMMEN stand. Soldiers march in. LORAS TYRELL takes off his helmet.
-CUT TO: THE HARBOR SHORE
+CUT TO THE HARBOR SHORE
 The Baratheon forces are in retreat.
 MAN: Back to the boats!
 STANNIS: Stand and fight! Stand and fight, damn you!
 Men grab STANNIS and restrain him.
 STANNIS: No!
-CUT TO: THE THRONE ROOM
+CUT TO THE THRONE ROOM
 TYWIN enters
 CERSEI: Father.
 She drops the vial, spilling its deadly contents. The vial shatters.

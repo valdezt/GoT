@@ -180,7 +180,7 @@ EXT.  Blackwater Bay
 Davos lies on a rocky shore, bruised, battered, and dehydrated. He looks out to the sea and sees a boat in the distance. He climbs atop the rocks and starts waving. He removes his shirt in desperation and waves that as well.
 DAVOS: Here. Here! Help me!
 Davos starts to lose hope. Then a horn blows from the distant boat. He is relieved.
-CUT TO: the same shore, a bit later.
+CUT TO the same shore, a bit later.
 A ships' boat has made it to Davos. He greets them as they row to him
 MAN: Who are you?
 DAVOS: I was in the battle at Blackwater. I was a captain and a knight.
@@ -371,7 +371,7 @@ JOFFREY: Why have we stopped?
 GUARD: It's Lady Margaery, Your Grace.
 Joffrey looks out of his palquin, and sees Margaery stepping into the streets.
 JOFFREY: Joffrey: What is she doing? Who gave her permission?
-CUT TO: The nearby streets.
+CUT TO The nearby streets.
 Margaery walks with purpose, and her maid tries to keep up.
 MAID: My lady. We should have guards, my lady.
 MARGAERY: Why?
@@ -381,10 +381,10 @@ A woman empties a bucket of feces just in front of Margaery's path. She continue
 MAID: Stop, my lady. You'll ruin your dress.
 MARGAERY: I have others.
 She steps across the puddle of filth and her handmaid follows.
-CUT TO: Joffrey's palaquin.
+CUT TO Joffrey's palaquin.
 GUARD: Would you like to speak with her, Your Grace?
 JOFFREY: No.
-CUT TO: Margaery sitting in a small courtyard, surrounded by children.
+CUT TO Margaery sitting in a small courtyard, surrounded by children.
 CHILD: He was a soldier. He went to fight on the walls when the ships came into Blackwater Bay. He never came back.
 MARGAERY: And your mother?
 CHILD: She died when she had me.
@@ -398,7 +398,7 @@ MARGAERY: Was your father a soldier, too?
 Child #2 nods
 MARGAERY:  You should be proud, too. Under King Joffrey's leadership, your fathers saved the city. They saved us all. From now on, we're going to take care of you. All of you.
 Women hand out food to the children.
-Cut to: The streets, a little later.
+CUT TO The streets, a little later.
 Margaery holds hands with two children as she walks. Children laugh and play. She speaks to their caretaker.
 MARGAERY: Come to me for whatever you need to feed them, clothe them, or house them. Directly to me.
 INT. Joffrey's dining table that night
@@ -429,7 +429,7 @@ JOFFREY: Well, as Ser Loras said, Lady Margaery has done this sort of... charita
 CERSEI: I'm sure she does.
 EXT. Approaching the harbor of Astapor
 DAENERYS stands on deck, watching their approach to the city.
-CUT TO:  The path leading to Astapor
+CUT TO  The path leading to Astapor
 Kraznys mo Nakloz leads Daenerys, Jorah and Missandei. Missandei translates for Kraznys.
 KRAZNYS MO NAKLOZ: ( speaking Valyrian )
 MISSANDEI: The Unsullied have stood here for a day and a night with no food or water.
@@ -481,7 +481,7 @@ MISSANDEI: 8000
 KRAZNYS MO NAKLOZ: ( speaking Valyrian ) Tell the Westerosi whore she has until tomorrow.
 MISSANDEI: Master Kraznys asks that you please hurry. Many other buyers are interested.
 KRAZNYS sheaths the knife. The Unsullied make way for KRAZNYS and MISSANDEI as the exit, then return to formation.
-CUT TO: Slaver's Bay shoreline
+CUT TO Slaver's Bay shoreline
 Daenerys and Jorah walk along the shore.
 DAENERYS: 8,000 dead babies.
 JORAH: The Unsullied are a means to an end.

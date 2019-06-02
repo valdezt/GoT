@@ -330,10 +330,10 @@ SELYSE: So you've come to see her as well? There is no need. You must keep away 
 STANNIS: She's my daughter. I want to see her.
 SELYSE: You are a king. You don't need my permission.
 Stannis exits.
-CUT TO: The hallway.
+CUT TO The hallway.
 STANNIS walks up to another closed door. SHIREEN sings behind it.
 SHIREEN: (sings) Under the sea I know, I know/ Oh, oh, oh
-CUT TO:  Inside SHIREEN's room.
+CUT TO  Inside SHIREEN's room.
 SHIREEN lies below a shuttered window. Sounds of seabird and crashing surf waft through the room.
 SHIREEN: (sings) The birds have scales  / And the fish take wing / I know, I know / Oh, oh, oh
 STANNIS: Shireen.
@@ -438,7 +438,7 @@ Daenerys is confused.
 DAENERYS: (speaks Valyrian) Grey Worm.
 DAENERYS: (speaks Valeryan) From this day forward you will choose your own names. You will tell your fellow soldiers to do the same. Throw away your slave name. Choose the name your parents gave you, or any other. A name that gives you pride.
 GREY WORM: (speaks Valeryan) "Grey Worm" gives me pride. It is a very lucky name. The name this one was born with was cursed. That was the name he had when he was taken as a slave. But Grey Worm is the name this one had the day Daenerys Stormborn set him free.
-CUT TO: Further back on the river.
+CUT TO Further back on the river.
 JORAH and BARRISTAN lead their horses.
 JORAH: King Robert wanted her dead.
 BARRISTAN: Of course he wanted her dead. She's a Targaryen. The last Targaryen.
@@ -498,7 +498,7 @@ OLYVAR starts to undo the straps of LORAS' practice armor.
 OLYVAR: I should like to see you spar with a proper partner, ser.
 LORAS: (chuckles)
 Their eyes meet.
-CUT TO: LORAS's chambers
+CUT TO LORAS's chambers
 LORAS and OLYVAR lie a bed in passionate and hungry embrace. OLYVAR Is nude.
 LORAS: How did you know?
 OLYVAR: Know what?

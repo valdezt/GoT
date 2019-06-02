@@ -79,7 +79,7 @@ Yoren takes the gold cloak’s sword. The other gold cloak pulls his out.
 YOREN: We'll just keep that. Good steel is always needed on the wall. Seems you have a choice. You can die here at this crossroads a long way from home. Or you can go back to your city and tell your masters you didn't find what you were looking for.
 GOLD CLOAK: We're looking for a boy named Gendry. (Gendry and Arya look shocked). He carries a bull's head helmet. Anyone turning him over will earn the King's reward. We'll be back. With more men. (To Yoren) And I'll be taking your head home along with that bastard boy.
 The gold cloaks ride off. Gendry and Arya stands up. Everyone in the party turns to look at Gendry.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. RED KEEP
 Tyrion walks through a room and into a hallway, whistling. As he opens the door to his room, Shae laughs, and he stops whistling. Shae and Varys are sitting at a table. Varys stands up, and Tyrion looks at Shae, and closes the door.
 VARYS: My lord.
@@ -139,7 +139,7 @@ CERSEI: One trip to The Wall and you come back believing in grumpkins and snarks
 TYRION: I don't know what I believe, but here's a fact for you. The Night's Watch is the only thing that separates us from what lies beyond the Wall.
 CERSEI: I have every confidence the brave men of the Night's Watch will protect us all.
 Everyone but Tyrion leaves.
-CUT TO: BEYOND THE WALL
+CUT TO BEYOND THE WALL
 INT. CRASTER’S CAMP
 Sam, Edd, and Grenn are standing at a table. Edd and Grenn are cutting food.
 EDD: Then I said, if the gods wanted us to have dignity, wouldn't make us fart when we died.
@@ -192,7 +192,7 @@ JON: We're heading deeper and deeper into wildling territory. We can't take a gi
 SAM: I could try. (Jon looks down, annoyed). What? I've read about it. A bit.
 JON: I'm sorry Sam, we can't help her.
 Jon sits back down, and returns to sharpening his sword. Sam walks away. When Sam is gone, Jon sighs deeply.
-CUT TO: ESSOS
+CUT TO ESSOS
 EXT. DESERT
 The camera pans across Daenerys’s people, many of whom appear tired and weak. Jorah and Daenerys sit near each other. After looking out for a few moments, Jorah takes a sip of his water, and then sighs. Then a horse can be heard approaching. Jorah looks up at it, and it is shown to be riderless.
 JORAH: Khaleesi.
@@ -211,7 +211,7 @@ DAENERYS: (Speaking Dothraki) Shh. We will build him a funeral pyre.
 Daenerys looks up at Jorah. Jorah looks down. Daenerys addresses Irri again, holding her head.
 DAENERYS: (Speaking Dothraki) And I promise you, Rakharo will ride with his ancestors tonight.
 Daenerys continues to comfort Irri as she cries. Irri wails loudly.
-CUT TO: IRON ISLANDS
+CUT TO IRON ISLANDS
 EXT. BOAT
 Theon stands on a boat, looking out at the Iron Islands. He smiles. The camera then cuts to him below deck. A naked woman lies in his bed. He walks towards the windows.
 WOMAN: Is it as you remember my lord?
@@ -235,7 +235,7 @@ THEON: Your place is on this ship.
 WOMAN: Not after you leave. Father will punish me. He'll call me a whore.
 THEON: I haven't paid you.
 Theon flips her over, and they continue having sex.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. BROTHEL
 A prostitute and a man are having sex. A man is watching them through a small hole, while he himself is getting a blowjob. He holds some keys in his hand, which are jingling as he pushes the prostitute’s head. Baelish, in turn, is watching this man. He hears a noise and turns around, then covers the hole he was watching through. A man emerges from another room. A woman can be heard crying from inside.
 MAN: I barely touched her. And you charge twice as much as every other brothel. And this is what I get, crying.
@@ -304,7 +304,7 @@ TYRION: To the new Commander.
 Tyrion and Bronn clink their glasses together. Then they both sip.
 TYRION: If I told you to murder, an infant girl say, still at her mother's breast, would you do it without question?
 BRONN: Without question? No. I'd ask how much.
-CUT TO: WOODS
+CUT TO WOODS
 EXT. CAMP NEXT TO A RIVER
 Gendry gathers some water in a bucket. Lommy and Hot Pie sit next to the river, washing things. Arya sits away from them, doing the same.
 LOMMY: If they come back, I say we yield. Gendry's the one they want. I don't want to get caught in the middle of a battle.
@@ -364,7 +364,7 @@ GENDRY: You were a lord's daughter and you lived in a castle. Look, all that abo
 ARYA: Do not call me milady.
 GENDRY: As milady commands. (Arya pushes him). Well, that was unladylike.
 Arya pushes Gendry to the ground. He laughs, and she stomps off.
-CUT TO: IRON ISLANDS
+CUT TO IRON ISLANDS
 EXT. DOCKSThe scene starts with a wide shot of the busy docks. Theon stands in a rowboat as is comes up against the side of a wall. He gets out and walks up some stairs. An old man spots him.
 MAN: What you carrying?
 THEON: Pears and oranges. Wine from the Arbor. And the heir to Pyke of the Iron Islands. (The man makes no response). The only living son of Balon Greyjoy. (The man continues to make no response). Me.
@@ -438,7 +438,7 @@ BALON: (Watching the letter burn in his hand). No man gives me a crown. I pay th
 Balon walks away. Yara follows him. Theon turns around to watch them leave.
 THEON: You won't stand a chance against the Lannisters on your own.
 BALON:Who said anything about the Lannisters?
-CUT TO: DRAGONSTONE
+CUT TO DRAGONSTONE
 EXT. BEACH
 Davos and Salladhor Saan walk on a beach. Matthos follows closely behind them..
 DAVOS: You'll have your gold when we take the treasury at King's Landing.
@@ -487,7 +487,7 @@ DAVOS: You want me to have a god, fine. King Stannis is my god. He raised me up 
 MATTHOS: (As Davos is mounting his horse). Stannis is my king, but he's only a man.
 DAVOS: Don't tell him that.
 Davos rides away and Matthos watches. In the background, Saan’s boat is in the water.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 INT. TYRION’S ROOM
 Tyrion sits at a table with a cup of wine. Cersei paces in front of him.
 CERSEI: Lord Janos Slynt was Commander of the City Watch. You had no right to exile him.
@@ -505,7 +505,7 @@ TYRION: (Tries not to laugh). As has Jaime repeatedly, according to Stannis Bara
 CERSEI: You're funny. (Laughs). You've always been funny. But none of your jokes will ever match the first one, will they? You remember... back when you ripped my mother open on your way out of her and she bled to death.
 TYRION: She was my mother too.
 CERSEI: Now they're gone, for the sake of you. There's no bigger joke in the world than that. (Storms out).
-CUT TO: DRAGONSTONE
+CUT TO DRAGONSTONE
 INT. DRAGONSTONE KEEP
 Davos moves some ships around on a model map of Westeros as Matthos looks on. Stannis enters with Melisandre.
 DAVOS: Your Grace.
@@ -544,6 +544,6 @@ STANNIS: I have a wife. I took a vow.
 MELISANDRE: She's sick. Weak. Shut away in the tower. And she disgusts you. And she's given you nothing. No sons. Only stillborns. Only death. (Whispers in his ear). I will give you a son, my King.
 STANNIS: (Gasps). A son?
 They begin kissing. Melisandre takes off what remained of her clothes. Stannis lays her on the table and they begin having sex, knocking many of the wooden models off of the table.
-CUT TO: BEYOND THE WALL
+CUT TO BEYOND THE WALL
 EXT. CRASTER’S KEEP
 Jon is sitting by a fire. He hears a noise and looks behind himself, seeing Craster walking away from the camp with a baby. Jon gets up to follow Craster and investigate, and walks into the woods. He begins hearing strange noises, and hides when he sees Craster walking back, without the baby. When Craster is out of sight, he runs in the direction Craster came from. He sees a figure lean down and pick up the baby. He is then startled by Craster, who puts his hand on Jon’s shoulder, and then knocks Jon out.

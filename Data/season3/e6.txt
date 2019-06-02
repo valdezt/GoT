@@ -150,7 +150,7 @@ THOROS: I've always been a terrible priest. Drank too much rum. Fucked all the w
 MELISANDRE: You've been to the other side.
 BERIC: The other side? There is no other side. I have been to the darkness, my lady. He sent you to us for a reason.
 MELISANDRE: You have someone He needs.
-CUT TO: The woods outside the cavern.
+CUT TO The woods outside the cavern.
 ANGUY hands an arrowhead to GENDRY.
 ANGUY: Bodkin point. Penetrates plate at 200 yards. Can you make 'em?
 GENDRY: Yeah, nothing tricky about it. Just need decent steel.
@@ -381,7 +381,7 @@ LORAS: Yes, me, too. Definitely. I've dreamed of a large wedding since I was qui
 SANSA: No. I had never left Winterfell before I came to King's Landing. But it sounds wonderful. I can't wait to see it. And to leave this place.
 LORAS: It's terrible, isn't it? The most terrible place there is.
 LORAS stands and  takes Sansa's hand to lead her away
-CUT TO: Garden overlook.
+CUT TO Garden overlook.
 TYRION and CERSEI watch SANSA and LORAS from afar.
 TYRION: I don't suppose there's anything we can do about this.
 CERSEI: We can have them both killed.
@@ -440,10 +440,10 @@ VARYS: I did what I did for the good of the realm.
 LITTLEFINGER: The realm? Do you know what the realm is? It's the thousand blades of Aegon's enemies. A story we agree to tell each other over and over till we forget that it's a lie.
 VARYS: But what do we have left once we abandon the lie? Chaos. A gaping pit waiting to swallow us all.
 LITTLEFINGER: Chaos isn't a pit. Chaos is a ladder.
-CUT TO: Joffrey's chambers
+CUT TO Joffrey's chambers
 Joffrey sits pensively with his crossbow. He stands and walks out, past the bloodied corpse of Ros. Her hands are tied above her head, and she is pierced by multiple crossbow bolts.
 LITTLEFINGER: (voice over) Many who try to climb it fail and never get to try again. The fall breaks them.
-CUT TO: King's Landing Garden
+CUT TO King's Landing Garden
 Sansa and Shae watch a boat sail away from King's Landing. Sansa weeps hopelessly. Shae is sad, but resolute.
 LITTLEFINGER: (voice over) And some are given a chance to climb, but they refuse. They cling to the realm or the gods or love. Illusions. Only the ladder is real. The climb is all there is.
 EXT: The top of the Wall

@@ -1,4 +1,4 @@
-Title: The Mountain and the Viper[Open to the dark, seedy town of Moles Town. Two men walk toward a brothel with smiles on their faces]
+[Open to the dark, seedy town of Moles Town. Two men walk toward a brothel with smiles on their faces]
 MAN 1: Here we are.
 [Inside everyone is happy, drinking, enjoying themselves. One woman is burping a tune]
 MAN 2: The Rains of Castamere!
@@ -17,7 +17,7 @@ GILLY: Shut your mouth.
 MOLE'S TOWN WHORE: What? It's just an owl you dumb bitch.
 GILLY: No it's not.
 [The owl hoots again. A man walks toward a well and in the reflection it's seen that Styr sliced the mans throat. Tormund is also seen as the Wildlings walk through the town killing everyone. Ygritte is also there. Styr and the Wildlings break into the brothel, continuing their killing spree. Ygritte kills everyone upstairs, as she's leaving she hears Gilly's baby cry. Ygritte opens a drape in the back and motions them to keep quiet]
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 SAM: I should never have left her there.
 JON: You couldn't have known.
 SAM: Of course I could've known. They were raiding the villages close by.
@@ -40,7 +40,7 @@ ED: If you're counting Black Jack, Kegs, and Mully. A hundred and two.
 PYP: How do a hundred and two men stop a thousand?
 ED: Whoever dies last, be a good lad and burn the rest of us. Once I'm done with this world, I don't want to come back.
 [Everyone takes a drink]
-CUT TO: MEEREEN
+CUT TO MEEREEN
 [Men and women are seen swimming in a lake. They're bathing and washing clothes. Grey Worm looks over at Missandei who is naked. Missandei sees him looking, he looks away ashamed then looks back. She stands up proudly, then covers up. He dunks his head under water]
 DANY: You think he was spying on you?
 MISSANDEI: No, not spying.
@@ -82,7 +82,7 @@ MISSANDEI: *in Valyrian* Grey Worm.
 MISSANDEI: *in Valyrian* I'm glad you saw me.
 GREY WORM: *in Valyrian* So am I.
 [Grey Worm turns and walks out of the throne room]
-CUT TO: MOAT CAILIN
+CUT TO MOAT CAILIN
 RAMSAY: Bracken. Mmm, strong. As long as they're in the see. But when you take them out of the water, no bones. They collapse under their proud weight and slum into a heap of nothing. You'd think they'd know that. Unfortunately they're not very bright. What do you tell them?
 THEON: I'm Theon Greyjoy, son of Balon, heir to the Iron Islands.
 RAMSAY: And what are you really?
@@ -124,7 +124,7 @@ THEON: Yes. Have your men raise the white flag and open the gates. You're going 
 RAMSAY: You didn't really think I'd let them go did you? It's falling out of fashion. Fileting. Sad, but true. Traditions are important. Where are we without our history, eh?
 THEON: Yes m'lord. Will we go home now?
 RAMSAY: I believe we will. To our new home.
-CUT TO: THE VALE
+CUT TO THE VALE
 You have foreign blood, don't you, Baelish?
 PETYR: A great-grandfather from Braavos, yes. I suppose all of our ancestors came from somewhere else originally.
 LORD ROYCE: Our forebearers settled the Vale thousands of years ago. We've fought off invaders ever since.
@@ -182,7 +182,7 @@ LADY ANYA: More often they die young.
 PETYR: I adored Lysa with all my heart. But she loved her son so much, she became overprotective. He needs to learn how to swing a sword. How to ride a horse.
 LORD ROYCE: Aye, it's time.
 PETYR: Yes, it's time. Time for him to tour the Vale, to visit all the castles in his domain. Time for Robin to leave the nest.
-CUT TO: MEEREEN
+CUT TO MEEREEN
 BOY: Ser Barristan.
 SER BARRISTAN: Yes? Who sent you?
 [A boy hands a scroll to Ser Barristan. He reads it]
@@ -235,7 +235,7 @@ SER JORAH: Daenerys, please.
 [Ser Jorah goes for Dany's hand]
 DANY: Don't ever presume to touch me again or speak my name. You have until dusk to collect your things and leave this city. If you're found in Meereen past break of day, I'll have your head thrown into Slaver's Bay. Go. Now.
 [Ser Jorah rides away from Mereen]
-CUT TO: MOAT CAILIN
+CUT TO MOAT CAILIN
 [Ramsay is seen holding a flag out to Lord Bolton]
 RAMSAY: Moat Cailin is yours, Father.
 LORD BOLTON: Walk with me. Has there been any word from Locke?
@@ -250,7 +250,7 @@ ROOSE: No, not Ramsay Snow. *hands Ramsay a scroll* Open it. From this day until
 RAMSAY: You honor me. I swear I will uphold your name and your tradition. I will be worthy of you, Father, I promise.
 [The Bolton army rides forward on horseback]
 RAMSAY: Come, Reek, I'll be needing a bath.
-CUT TO: THE VALE
+CUT TO THE VALE
 [Sansa is seen sitting on her bed sewing. Petyr knocks on her door]
 SANSA: Yes?
 PETYR: First time I saw you, you were just a child. A girl from the North come to the capital for the first time. Not a child any longer. Why did you help me?
@@ -263,7 +263,7 @@ PETYR: Better to gamble on the man you know than the strangers you don't? And yo
 SANSA: I know what you want.
 PETYR: Do you?
 [She looks up at him]
-CUT TO: OUTSIDE THE VALE
+CUT TO OUTSIDE THE VALE
 [Arya and the Hound approach the Vale]
 HOUND: I thought it'd make me happy, but it doesn't. Not really. Nothing makes you happy.
 ARYA: Lots of things make me happy.
@@ -289,7 +289,7 @@ GUARD: Who would pass the Bloody Gate?
 HOUND: The bloody Hound, Sandor Clegane. And his...traveling companion Arya Stark, niece of your lady Lysa Arryn.
 GUARD: Then I offer my condolences. Lady Arryn died. Three days ago.
 [Arya bursts out laughing]
-CUT TO: THE VALE
+CUT TO THE VALE
 [Petyr is walking down the stairs with Robin]
 ROBIN: I've never left home before, Uncle Petyr. I'm afraid to leave.
 PETYR: You shouldn't be.
@@ -297,7 +297,7 @@ ROBIN: The Lord of the Vale belongs in the Eyrie, Mother said. She said it's not
 PETYR: It wasn't safe for her inside. People die at their dinner tables. They die in their beds. They die squatting over their chamber pots. Everybody dies sooner or later. Don't worry about your death. Worry about your life. Take charge of your life for as long as it lasts. That is what it means to be Lord of the Vale.
 [Sansa enters the scene and walks down the stairs, Petyr looks at her]
 SANSA: Shall we go?
-CUT TO: KING'S LANDING
+CUT TO KING'S LANDING
 [In prison, Tyrion drinks wine from Jaime]
 TYRION: Wine always helps. I thank you for it. Trial by combat. Deciding a man's guilt or innocence in the eyes of the gods by having two other men hack each other to pieces. Tells you something about the gods. How much longer?
 JAIME: Soon.

@@ -18,13 +18,13 @@ BRONN: Not without a cock, you don't.
 JAIME: Maybe it really is all cocks in the end.
 BRONN: Yet, your brother--
 JAIME: Yes, he's always been a champion of the downtrodden.
-A trumpet blares. Men shriek in the distance, accompanied by thundering hoofbeats. The Dothraki crest the hill behind the disciplined unsullied army. They are savage and shrieking. They ride through and past the Unsullied.
+A trumpet blares. Men howl and whoop in the distance, accompanied by thundering hoofbeats. The Dothraki crest the hill behind the disciplined unsullied army. They are savage and shrieking. They ride through and past the Unsullied.
 BRONN: I think we're about to be the downtrodden.
 MAN: Archers, stand tall!
 MAN #2: Cover that wall!
 EXT. The Sea Outside King's Landing
 An Ironborn fleet rests next to the castle. More Ironborn ships approach.
-CUT TO: Deck of Ironborn Ship.
+CUT TO Deck of Ironborn Ship.
 TYRION, THEON and VARYS stand on deck, looking to the distance as their ship sails in. TYRION joins JON, JORAH, MISSANDEI and JORAH on the foredeck.
 JON:  How many people live here?
 TYRION: A million, give or take.
@@ -51,7 +51,7 @@ TYRION: I imagine it was a sad joke at the end. An entire arena for a few sickly
 Lannister guards approach, led by BRONN and accompanied by BRIENNE and PODRICK.
 DAVOS: Maybe it still is.
 BRONN: Welcome, my lords. Your friends arrived before you did.
-The Dothraki, led by Qhono, look suspicious. BRIENNE and SANDOR exchange a look/
+The Dothraki, led by Qhono, look suspicious. BRIENNE and SANDOR exchange a look.
 BRONN: I've been sent to escort you all to the meeting.
 The Lannister guards part, clearing the path. TYRION nods to QHONO, who takes the lead. The Dothraki all move forward, followed by the rest. PODRICK meets TYRION.
 TYRION: A pleasant surprise in an unpleasant situation.
@@ -62,7 +62,7 @@ TYRION: Cersei will anyway.
 PODRICK: I'm glad you're alive.
 BRONN: Come on! You can suck his magic cock later.
 TYRION: (Shakes his head.)
-CUT TO: Further back on the road.
+CUT TO Further back on the road.
 The WIGHT's crate is drawn by horses, en route to the meeting site.
 SOLDIER: What's in there?
 SANDOR: Fuck off.
@@ -88,10 +88,10 @@ TYRION: Are you? Helping me to arrange this meeting wasn't exactly looking after
 BRONN: I put yourself at risk. Important difference. It's your head Queen Cersei's offered a bag of gold for, it's not mine. Now, thanks to me, she's got two traitors' heads coming right through her door. She can lop them both off as soon as she gets tired of the clever words that pour out their pieholes. All thanks to Ser Bronn of the fucking Blackwater. If that's not looking after myself, I don't know what is.
 TYRION: It's good to see you again.
 BRONN: Yeah, you, too.
-CUT TO: Outside the Dragon PIt
+CUT TO Outside the Dragon PIt
 SANDOR attends to the cart transporting the WIGHT.
 SANDOR: Anyone touches it, I'll kill you first.
-CUT TO: The Dragon Pit
+CUT TO The Dragon Pit
 The party enters the ruin of the dragon pit. Lannister banners decorate the walls, and the stage has been furnished with open tents for the summit. Everyone files in, Lannisters to the right, Northerns to the left.
 BRONN: Come on, Pod. Let's you and me go have a drink while the fancy folks talk, eh?
 BRIENNE gives her permission to PODRICK, who exits with BRONN. JON watches them go.
@@ -191,14 +191,14 @@ JON: I did this. I should go.
 TYRION:  She'll definitely murder you. I go see my sister.
 DAENERYS: (Nods)
 Tyrion exits.
-CUT TO: King's Landing portico
+CUT TO King's Landing portico
 Tyrion walks the halls of the castle, followed by the MOUNTAIN. He meets with JAIME.
 TYRION: You spoke with her?
 JAIME: At her until she kicked me out. She thinks I was an idiot to trust you. A lot of people seem to think that, actually.
 TYRION: I'm about to step into a room with the most murderous woman in the world who's already tried to kill me twice, that I know of. Who's an idiot?
 JAIME: I suppose we should say goodbye, one idiot to another.
 TYRION advances, and the MOUNTAIN leads him inside
-CUT TO: Council Chamber.
+CUT TO Council Chamber.
 The MOUNTAIN accompanies TYRION into the chamber to meet CERSEI.
 CERSEI: I shouldn't be surprised, I suppose. She's your kind of woman a foreign whore who doesn't know her place.
 TYRION: A foreign whore you can't abduct, beat, or intimidate. That must be difficult for you.
@@ -240,7 +240,7 @@ CERSEI cradles her belly and TYRION notices. She takes a deep breath.
 CERSEI: That thing you dragged here, I know what it is, I know what it means. And when it came at me, I didn't think about the world. Not at all. As soon as it opened its mouth, the world disappeared for me, right down its black throat. All I could think about was keeping those gnashing teeth away from the ones who matter most, away from my family. Maybe Euron Greyjoy had the right idea. Get on a boat, take those who matter.
 TYRION: You're pregnant.
 CERSEI does not answer.
-CUT TO: Side Area of the Dragon Pit
+CUT TO Side Area of the Dragon Pit
 JON picks up some bleached bones from the dirt floor. DAENERYS approaches him.
 JON: No one is less happy about this than I am.
 DAENERYS: I know. I respect what you did. Wish you hadn't done it, but I respect it.
@@ -259,9 +259,9 @@ JON: It appears Tyrion's assessment was correct. We're fucked.
 DAENERYS: (Laughs)
 They hear footsteps, and they walk back to the others. The camera shifts to the main area of the Dragon Pit. TYRION walks in alone. He is followed by CERSEI, the MOUNTAIN, QYBURN, JAIME and the Lannister guards. The northern delegation watches as they approach the dais.
 CERSEI: My armies will not stand down. I will not pull them back to the capital. I will march them north to fight alongside you in the Great War. The darkness is coming for us all. We'll face it together. And when the Great War is over, perhaps you'll remember I chose to help with no promises or assurances from any of you. I expect not. Call our banners. All of them.
-CUT TO: The North
+CUT TO The North
 A raven flies in the wintery night towards Winterfell.
-CUT TO: Winterfell interior
+CUT TO Winterfell interior
 LITTLEFINGER: It's not easy for ravens to fly in these storms. Perhaps Jon tried to send word earlier.
 SANSA: No, this is the way he is, the way he's always been. He never asked for my opinion. Why would he start now?
 LITTLEFINGER: I can't believe he'd surrender the Northern crown without consulting you.
@@ -285,14 +285,14 @@ SANSA: To provide proof of my betrayals. To provide justification after she murd
 LITTLEFINGER: And after she murders you, what does she become?
 SANSA: Lady
 SANSA contemplates.
-CUT TO: Dragonstone Map Room
+CUT TO Dragonstone Map Room
 JON, DAENERYS, DAVOS, JORAH, THEON, VARYS, MISSANDEI, GREY WORM and TYRION strategize.
 JON: If we have the Dothraki ride hard on the kingsroad, they'll arrive at Winterfell within the fortnight.
 DAENERYS: And the Unsullied? We can sail with them to White Harbor, meet the Dothraki here on the kingsroad, then ride together to Winterfell.
 JORAH: Perhaps you should fly to Winterfell, Your Grace. You have many enemies in the North. Thousands fell fighting your fatherAll it takes is one angry man with a crossbow. He'll see your silver hair on the kingsroad and know that one well-placed bolt will make him a hero. The man who killed the conqueror.
 JON: It's your decision, Your Grace. But if we're going to be allies in this war, it's important for the Northerners to see us as allies. If we sail to White Harbor together, I think it sends a better message.
 DAENERYS: I've not come to conquer the North. I'm coming to save the North. We sail together.
-CUT TO: Dragonstone Throne Room
+CUT TO Dragonstone Throne Room
 JON and DAVOS walk through the room, away from the meeting. THEON trails behind.
 THEON: Jon.
 JON and DAVOS stop and turn.
@@ -316,7 +316,7 @@ JON: It's not my place to forgive you for all of it. But what I can forgive, I d
 THEON: When I was Ramsay's prisoner, Yara tried to save me. She's the only one who tried to save me. (SNIFFLES) She needs me now.
 JON: So, why are you still talking to me?
 JON exits.
-CUT TO: The shores of King's Landing
+CUT TO The shores of King's Landing
 HARRAG and the ironborn load their skiffs, preparing to depart.
 HARRAG: Load up. Load up, lads. Go on. Tide's coming in.
 THEON approaches
@@ -347,10 +347,10 @@ THEON gets up again, and they set on one another. HARRAG knees THEON in the groi
 THEON: Not for me. For Yara!
 MEN: Yara!
 THEON staggers to the water, and he cleanses his face.
-CUT TO: King's Landing Exterior
+CUT TO King's Landing Exterior
 Sansa contemplates the landscape on a grey, snowy day from the ramparts of Winterfell. She makes up her mind and walks towards a guard.
 SANSA: Have my sister
-CUT TO: The Great Hall of Winterfell
+CUT TO The Great Hall of Winterfell
 SANSA and BRAN sit at the great table, with WOLKAN standing to the side. The room is filled with northmen. The guards escort ARYA into the hall, and leave her standing alone in front of the table. ARYA looks around and spies YOHN ROYCE, then LITTLEFINGER.
 ARYA: Are you sure you want to do this?
 SANSA: It's not what I want. It's what honor demands.
@@ -394,7 +394,7 @@ SANSA: When you brought me back to Winterfell, you told me there's no justice in
 ARYA steps briskly towards LITTLEFINGER, and slashes his throat with his own knife, swiftly.
 LITTLEFINGER: Sansa! (GASPS) I--
 ARYA returns tableside, and everyone watches as LITTLEFINGER dies.
-CUT TO: An Interior Courtyard in King's Landing.
+CUT TO An Interior Courtyard in King's Landing.
 Jaime paces into the yard. CERSEI watches from the upper level.
 JAIME: Our men in King's Landing will march north in three days' time.
 MAN: It'll take us a fortnight just to gather supplies for the train.
@@ -449,10 +449,10 @@ JAIME: Give the order, then.
 CERSEI hesitates, and JAIME thinks that he has called her bluff. Then CERSEI nods to the MOUNTAIN, who unsheathes his sword. JAIME looks nervous, then makes up his mind.
 JAIME: I  don't believe you.
 JAIME moves past the MOUNTAIN, who lets him go. CERSEI starts after him, but lets him go.
-CUT TO: Outside King's Landing.
+CUT TO Outside King's Landing.
 JAIME rides his horse away from KIng's Landing. He inspects his golden hand, then fits his glove over it. He looks up into the grey day, as snow flurries come down. He rides off.
-CUT TO: Montage of King's Landing at night.
-CUT TO: Winterfell Interior
+CUT TO Montage of King's Landing at night.
+CUT TO Winterfell Interior
 BRAN sits by the fire. There is a knocking on the door.
 BRAN: Come in.
 SAM enters.
@@ -477,25 +477,25 @@ BRAN: Dornish bastards are named Sand.
 SAM: At the Citadel, I transcribed a High Septon's diary. He annulled Rhaegar's marriage to Elia. He wed Rhaegar and Lyanna in a secret ceremony.
 BRAN: Are you certain?
 SAM:  It's what the High Septon wrote in his private diary. I don't know why he'd lie. Is this something you can see?
-CUT TO: Flashback
+CUT TO Flashback
 BRAN observes the wedding of RHAEGAR and LYANNA.
 RHAEGAR:  Father, Smith, Warrior, Mother, Maiden, Crone, Stranger. I am hers and she is mine from this day until the end of my days.
 LYANNA: Father, Smith, Warrior, Mother, Maiden, Crone, Stranger. I am his and he is mine from this day until the end of my days.
 BRAN: Robert's Rebellion was built on a lie. Rhaegar didn't kidnap my aunt.
 RHAEGAR and LYANNA kiss.
-CUT TO: Boat interior
+CUT TO Boat interior
 JON knocks on a door and DAENERYS answers.
 BRAN: He loved her. And she loved him.
 DAENERYS lowers her arm to invite JON in. The door closes. TYRION watches from the hall.
-CUT TO: Flashback
+CUT TO Flashback
 LYANNA has given birth to JON, but she is dying. NED kneels beside her, holding her hand.
 LYANNA: His name is Aegon.
-CUT TO: Boat Interior
+CUT TO Boat Interior
 DAENERYS and JON are making love on her bed, passionately.
 BRAN: He's never been a bastard.
 TYRION continues to stand in the hallway outside their door.
 BRAN'S VOICE: He needs to know. We need to tell him.
-CUT TO: Winterfell Exterior
+CUT TO Winterfell Exterior
 SANSA and ARYA stand on the ramparts.
 ARYA: Are you all right?
 SANSA: It's just strange. In his own horrible way, I believe he loved me.
@@ -511,9 +511,9 @@ ARYA: "In winter, we must protect ourselves. Look after one another."
 SANSA: Father
 ARYA: I miss him.
 SANSA: Me, too.
-CUT TO: THE GODSWOOD OF WINTERFELL.
+CUT TO THE GODSWOOD OF WINTERFELL.
 BRAN sits in front of the godswood.
-CUT TO: The Wall.
+CUT TO The Wall.
 Ravens caw as Tormund and Beric patrol on the top of the wall. They look out towards the North.
 BERIC: It's a long way down.
 TORMUND: Yeah. The crows keep telling me I'll get used to it.
@@ -523,4 +523,4 @@ MAN #2: What is it?
 A huge undead army emerges from the trees. The white walkers are mounted, holding a spear. Dark clouds swirl. A horn blares as the undead army gets closer to the wall. The undead army stops, and all is still.
 Atop the wall, TORMUND and BERIC look out nervously. A dragon's screech comes from the darkness. The undead Viserion flies in, and spits out blue flame at the wall as he passes. TORMUND and BERIC stare in disbelief. The Night King rides astride the undead dragon. TORMUND and BERIC hurry down from the watchtower.
 TORMUND: Come on!  Run! Run!
-The Night's Watchmen flee as the undead dragon attacks the wall will blue flame. The wall begins to buckle and fall. The stairways shake and fall apart. Many fall to their deaths. The undead army watches, motionless. TORMUND and BERIC barely escape from the collapsing section of the wall. Once it has come to the ground, the undead army starts to advance. The army seems endless, and includes undead giants. The Night King leads from above, riding Viserion. The undead march south of the wall.
+The Night's Watchmen flee as the undead dragon attacks the wall will blue flame. The wall begins to buckle and fall. The stairways shake and destruct. Many fall to their deaths. The undead army watches, motionless. TORMUND and BERIC barely escape from the collapsing section of the wall. Once it has come to the ground, the undead army starts to advance. The army seems endless, and includes undead giants. The Night King leads from above, riding Viserion. The undead march south of the wall.

@@ -77,7 +77,7 @@ VARYS: Because we are talking about the future of our country.
 Tyrion finishes his wine.
 TYRION: The future is shit. Just like the past.
 He pukes up his wine and then pours himself another cup.
-CUT TO: MEEREEN
+CUT TO MEEREEN
 The giant bronze Harpy statue is pulled down from the top of the pyramid.
 An Unsullied soldier, White Rat, walks up to a prostitute and hands her a coin. She takes him into her room and starts undressing him.
 PROSTITUTE: You want the same? Same as always?
@@ -107,7 +107,7 @@ The other Unsullied leave the room.
 GREY WORM: Why do you come?
 MISSANDEI: White Rat, the Unsullied who… I have heard they found his body in a brothel. I have heard that more than one Unsullied has been known to visit Meereen’s brothels. May I ask you why? Why would an Unsullied go to a brothel?
 GREY WORM: I do not know. I must go.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 Jon Snow is parrying with Olly. Jon puts his sword to Olly’s neck.
 JON: Get your shield up.
 OLLY: It’s too heavy.
@@ -172,7 +172,7 @@ JON: Your grace…
 STANNIS: ...or he burns.
 JON: How much time do I have?
 STANNIS: Nightfall. The sun drops fast this time of year. Hurry, Jon Snow.
-CUT TO: THE VALE OF ARRYN
+CUT TO THE VALE OF ARRYN
 Sansa, Littlefinger, and Yohn Royce are watching Robin parry. He is being beaten badly.
 MASTER OF ARMS: Sword up! Attack, my lord! Attack! Don’t cross your feet!
 YOHN ROYCE: My sons have had swords in their hands from the time they could walk. This one…
@@ -190,7 +190,7 @@ SANSA: Goodbye Lord Royce, and thank you for all you’ve done for me.
 ROYCE: I have done nothing more than my duty, my lady.
 BAELISH: I have no doubt that upon my return, Robin’s skills will have improved immeasurably.
 ROYCE: He’ll be safe here. As for his skills, I make no promises.
-CUT TO: COUNTRYSIDE
+CUT TO COUNTRYSIDE
 Podrick sits down next to Brienne, who is sharpening her sword.
 PODRICK: Will we head north at some point? He said Sansa had a brother at Castle Black. We’re a few days ride from the Kingsroad, but that will take us--
 BRIENNE: Us? The only reason you’re here is that Jaime Lannister told me you weren’t safe in the capital. You’re hundreds of miles from King’s Landing. No one knows what you look like. No one cares. You’re safe.
@@ -217,7 +217,7 @@ Baelish smiles.
 BAELISH: No. But I pay them well, and they’ve seen what happens to men who disappoint me.
 SANSA: So where are we going? To a land where you trust everyone?
 BAELISH: So a land so far from here, even Cersei Lannister can’t get her hands on you.
-CUT TO: KING’S LANDING
+CUT TO KING’S LANDING
 Close-up on Cersei drinking wine while Loras talks in the background.
 LORAS: It was such a deep, deep shock to us all. Your father was a force to be reckoned with. He truly was. I wouldn’t presume to claim to have known him as such…
 Cut to Tommen talking and smiling with Margaery.
@@ -250,7 +250,7 @@ LANCEL: I’m a different person now. I found peace in the light of the Seven. Y
 Cersei laughs.
 CERSEI: The day Tywin Lannister’s soul needs your help…
 Cersei takes a sip of wine and Lancel walks away.
-CUT TO: LORAS’ BEDROOM
+CUT TO LORAS’ BEDROOM
 Close-up of Loras' birth mark.
 OLYVAR: It looks like Dorne.
 LORAS: No it doesn’t.
@@ -282,7 +282,7 @@ LORAS: If she doesn’t marry me, she doesn’t go to Highgarden. Which means sh
 MARGAERY: Perhaps.
 LORAS: Perhaps?
 MARGAERY: Perhaps?
-CUT TO: PENTOS
+CUT TO PENTOS
 Tyrion is standing on a balcony with a glass of wine. Varys approaches him.
 TYRION: Eunuch, the spider, the master of whisperers.
 VARYS: Imp, half-man.
@@ -313,7 +313,7 @@ VARYS: No, you won’t. But you could help another climb those steps and take th
 TYRION: Good luck finding him.
 VARYS: Who said anything about him? You have a choice my friend. You can stay here at Ilyrio’s palace and drink yourself to death, or you can ride with me to Mereen, meet Daenerys Targaryen, and decide if the world is worth fighting for.
 TYRION: Can I drink myself to death on the road to Meereen?
-CUT TO: MEEREEN
+CUT TO MEEREEN
 The Unsullied march through the streets.
 DAARIO NAHARIS: When did the Unsullied start patrolling the streets of Meereen? Looks like your friends haven’t been behaving themselves.
 HIZDAHR ZO LORAQ: The mission to Yunkai was a resounding success. The Wise Masters of Yunkai have agreed to cede power to a council of elders, made up of both the freedmen and the former slaveholders. All matters of consequence will be brought to you for review.
@@ -354,7 +354,7 @@ DAENERYS: Viserion? Rhaegal?
 The two fully grown dragons start snapping, screaming, and breathing fire at her.
 DAENERYS: Easy. Easy. Easy.
 They keep breathing fire and roaring so she leaves the room, terrified.
-CUT TO: CASTLE BLACK
+CUT TO CASTLE BLACK
 Members of the Night’s Watch are constructing a funeral pyre.
 INT. MANCE’S CELL
 Jon Snow enters the room.

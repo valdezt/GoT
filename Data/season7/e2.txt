@@ -72,7 +72,7 @@ TYRION:  Doesn't really roll off the tongue, does it?
 DAENERYS:  No, but I like it better.
 DAENERYS turns back to MELISANDRE.
 DAENERYS:  And you believe this prophecy refers to me?
-MELISANDRE:  Prophecies are dangerous things.  I believe you have a roll to play, as does another.  The King in the North, Jon Snow.
+MELISANDRE:  Prophecies are dangerous things.  I believe you have a role to play, as does another.  The King in the North, Jon Snow.
 TYRION:  Jon Snow?  Ned Stark's bastard?
 DAENERYS:  You know him?
 TYRION:  I traveled with him to the Wall when he joined the Night's Watch.
@@ -257,7 +257,7 @@ MARWYN places another book on SAMWELL's stack.
 SAMWELL:  Oh.
 MARWYN:  The procedure is far too dangerous which is why it's now forbidden.
 MARWYN turns and walks out of the library.
-CUT TO: QUARANTINE ROOMS
+CUT TO QUARANTINE ROOMS
 A few hours have passed.  JORAH is writing a letter to DAENERYS by candlelight in his quarantine room.  He hears a noise in the hallway and stands to face the door.  SAMWELL opens the door and rolls in a cart filled with medical tools and containers.
 SAMWELL:  Hello.
 JORAH:  What are you doing?
@@ -277,7 +277,7 @@ SAMWELL:  No.  No one else will try, so I'm the best you've got.  Have a seat.  
 JORAH looks at SAMWELL to stop him from explaining.  SAMWELL picks up a pair of tweezers and a scalpel.  He grabs a section of Greyscale to cut it off.  JORAH recoils in pain.
 SAMWELL:  Shh,  shhh.  Again, I'm sorry.  Please try not to scream.
 SAMWELL cuts into the Greyscale.  JORAH begins to writhe in agony and whimper.  Pus is dripping from the wound.  SAMWELL continues cutting and slices a layer of Greyscale off JORAH's skin.
-CUT TO:  INN AT THE CROSSROADS
+CUT TO  INN AT THE CROSSROADS
 Two men are at a table having a conversation.
 MAN #1:  They say her dragons are bigger than Aegons.
 MAN #2:  Horse shit.  Cersei is just trying to frighten us.
@@ -328,7 +328,7 @@ Arya stands and walks past Hot Pie.  She turns and puts her hand on his shoulder
 ARYA:  Take care of yourself, Hot Pie.  Try not to get killed.
 HOT PIE:  No, I won't.  I'm like you, Ary.  I'm a survivor.
 ARYA turns and exits the Inn
-CUT TO:  EXT. INN AT THE CROSSROADS
+CUT TO  EXT. INN AT THE CROSSROADS
 ARYA climbs on her horse.  She looks towards the south, then the north.  She makes a decision and turns around to head back north.  She rides off into the distance.
 JON is bent over his desk looking at maps.  There's a knock at the door.
 JON:  Come in.
@@ -376,7 +376,7 @@ JON grabs BAELISH by the throat and pushes him against the wall.  BAELISH begins
 JON:  Touch my sister and I'll kill you myself.
 JON releases BAELISH.  JON turns and walks to exit the crypt.
 JON walks into the courtyard towards his horse.  SER DAVOS is seated on his own horse awaiting him.  JON climbs onto his horse and looks back.  He sees SANSA on the upper level of the courtyard.  JON waves goodbye and SANSA waves back.  JON, DAVOS and Winterfell guards ride out of the gate and exit the courtyard.  BAELISH exits from the crypt looking shaken.
-CUT TO:  RIVERLANDS
+CUT TO  RIVERLANDS
 ARYA is building a fire.  Her horse is tied to a tree.  The horse begins to whinny.  ARYA stands and grabs her sword from beside the fire.  Multiple wolves come from the woods and begin to circle her.  A large grey and white dire wolf approaches her barring teeth.
 ARYA:  Nymeria?
 ARYA sets her sword down and begins to approach the dire wolf.
@@ -385,7 +385,7 @@ ARYA stretches her hand out towards the dire wolf.
 ARYA:  Come with me.
 The dire wolf turns and begins to leave.  All the other wolves walk away with it.  ARYA whispers to herself.
 ARYA:  That's not you.
-CUT TO:  SEA OF DORNE
+CUT TO  SEA OF DORNE
 It's nighttime.  There are dozens of ships sailing on the Sea of Dorne.
 ELLARIA SAND's daughters TYENE, OBARA, and NYMERIA are laying in hammocks next to each other having a conversation.
 NYMERIA:  You can't have them all.  It's not fair.
@@ -446,6 +446,6 @@ EURON:  Theon!
 THEON is still fighting.  He hears his uncle's yell and turns to look.  EURON is holding YARA and has his ax to her neck.  THEON stops and is frozen in place.  EURON begins smirking at him.
 EURON:  Ah, come on your cockless hound.  I have her.  Come and get her.
 THEON is looking around.  Men are being killed and everything is on fire.  One invader is pulling someone's teeth out.  THEON begins to shake and whimper.  His eye twitches.  He turns, drops his sword and jumps off of the rail of the ship into the water.  EURON begins to laugh and look at YARA.
-CUT TO:  SEA OF DORNE
+CUT TO  SEA OF DORNE
 THEON is in the water holding onto some flotsam.  He is watching the ships burn and the Iron Fleet sail away into the distance.
 END CREDITS

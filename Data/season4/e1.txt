@@ -83,7 +83,7 @@ TYRION:  We must find Prince Oberyn before he kills somebody or several somebodi
 BRONN: How do you plan on finding a single Dornishman in a city this big?
 TYRION: You're famous for fucking half of Westeros. You just arrived at the capital after two weeks of bad roads, where would you go?
 BRONN: I'd probably go to sleep, but I'm getting old.
-CUT TO: INTERIOR, brothel
+CUT TO INTERIOR, brothel
 OBERYN walks behind a row of prostitutes, taking their measure. He comes around to face them, walking past OLYVAR. ELLARIA lounges behind him, as he decides upon WHORE #1.
 OBERYN: Look at this one. How lovely is she?
 ELLARIA: Beautiful. But pale.
@@ -128,7 +128,7 @@ MORGAN:  Weep o'er his hall...
 OBERYN moves towards the source of the singing.
 ELLARIA:  Oberyn, don't.
 ELLARIA gets up and hands her wine to WHORE #2 and follows OBERYN, concerned.
-CUT TO: A nearby room in the brothel.
+CUT TO A nearby room in the brothel.
 MORGAN and MORGAN'S FRIEND sit entangled with their prostitutes. One of them is singing.
 MORGAN:   With no one there to hear Yes, not the rains  weep o'er his hall And not a soul to hear.
 OBERYN enters.
@@ -199,7 +199,7 @@ OBERYN exits and TYRION looks concerned.
 EXT. ESSOS
 DAENERYS sits with DROGON nuzzling her, while VISERION and RHAEGAL fly in the distance. DAENERYS chuckles and strokes DROGON, soothing him. JORAH walks up. VISERION and RHAEGAL tussle in midair over a carcass, which lands before the rock where DAENERYS sits. The two dragons follow, fighting to claim the meat. DROGON rises to his haunches, and roars. The other dragons submit and DROGON moves to take the carcass. JORAH comes closer.
 JORAH: They're dragons, Khaleesi. They can never be tamed. Not even by their mother.
-CUT TO: ESSOS EXTERIOR
+CUT TO ESSOS EXTERIOR
 The unsullied stand at the ready. DAENERYS and JORAH approach, followed by three Dothraki. They walk up tot join BARRISTAN SELMY and MISSANDEI in front of the troops.
 DAENERYS: Ser Barristan.
 BARRISTAN: Your Grace.
@@ -207,7 +207,7 @@ DAENERYS: Where's Daario Naharis? Where's Grey Worm?
 BARRISTAN: Gambling, Your Grace.
 DAENERYS: Gambling?
 Annoyed, DAENERYS strides forward. MISSANDEI follows briskly. They walk between rows and rows of unsullied.
-CUT TO: ESSOS village exterior.
+CUT TO ESSOS village exterior.
 The crowd bows in reverence as DAENERYS and MISSANDEI stride past.
 CROWD: Mhysa. Mhysa. Mhysa...
 DAENERYS: How long have they been at it?
@@ -363,7 +363,7 @@ TORMUND: He is? Shouldn't it be "he was"? You said you put three arrows in him.
 YGRITTE:  I did.
 TORMUND: I've seen you slip a shaft through a rabbit's eye at 200 yards. If that boy's still walking, it's 'cause you let him go.
 A wildling whistles from above. TORMUND and YGRITTE turn to look, and rise.
-CUT TO: The crevice
+CUT TO The crevice
 YGRITTE and TORMUND lead a group of wildlings with weapons draw. Other wildings stand above the crevice where they advance.  Some Thenns approach, led by the menacing STYR.
 TORMUND: Thenns. I fucking hate Thenns.
 TORMUND sheathes his sword. The Thenns come closer.
@@ -395,7 +395,7 @@ STYR kneels before the fire, where the other Thenns have skewered a human arm on
 EXT. Winterfell. Some Knight's Watch recruits are practicing their archery.
 OFFICER: Draw. Loose.
 SAM walks by the recruits as they fire their arrows at a row of straw men, to varying effect. He then walks up the steps to JON's quarters.
-CUT TO: Jon's quarters
+CUT TO Jon's quarters
 Jon is dressing in pain. SAM stands behind him.
 JON: Last time I saw him, he was in the courtyard at Winterfell. "He said, " Next time I see you, you'll be all in black." I was jealous of Robb my whole life. (Winces) The way my father looked at him, I wanted that. He was better than me at everything... fighting and hunting and riding and girls. Gods, the girls loved him. I wanted to hate him, but I never could.
 SAM: Sometimes I want to hate you.
@@ -467,7 +467,7 @@ OLENNA: I hear you knocked my grandson into the dirt like the silly little boy h
 BRIENNE: My lady, I know this is a very busy time for you, but if I could just have a moment.
 OLENNA turns to MARGAERY, intrigued.
 OLENNA: You dare not refuse.
-CUT TO: Another part of the garden.
+CUT TO Another part of the garden.
 BRIENNE and MARGAERY stroll next to a pond
 MARGAERY: A shadow?
 BRIENNE: A shadow with the face of Stannis Baratheon. I swear to you by all the gods it was Stannis. He plunged his sword through Renly's heart and disappeared. One day, my lady, I will avenge our king.
@@ -574,7 +574,7 @@ ARYA: You're fine with murdering little boys, but thieving is beneath you?
 HOUND: A man's got to have a code.
 ARYA: You think I'm gonna escape? Where would I go? I'd be dead by nightfall without you. My family's gone. I've got no one.
 HOUND: You've got an aunt in the Vale. Your rich Aunt Lysa. After I sell you to her, maybe she'll have enough left over to buy you that pony you want so much.
-CUT TO: outside an Inn. Sounds of men can be heard in the buildings.
+CUT TO outside an Inn. Sounds of men can be heard in the buildings.
 ARYA: I'm hungry. You're hungry.
 HOUND: Five horses, five men. More than I feel like killing on an empty stomach.
 Two men exit the bulding, and ARYA recognizes POLLIVER.
@@ -596,7 +596,7 @@ ARYA:  He killed my friend.
 The HOUND grabs ARYA roughly by the should and puts himself between her and the door.
 HOUND: I don't care if he ate your friend. We're not going in there.
 The door opens behind him and a soldier meets his eye. The HOUND turns to face him fully. He retreats, allowing the HOUND to enter.
-CUT TO: FARMHOUSE INTERIOR
+CUT TO FARMHOUSE INTERIOR
 The HOUND enters the door, and a woman can be heard whimpering while the soldiers egg each other on.
 MAN: Come on, give it up.
 INNKEEPER'S DAUGHER: (Whimpers)
