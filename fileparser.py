@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+from characters import character_dictionary
 
 regex_speaking_line = '(?P<character>[^():]*)(?P<space_1> )?(?P<direction>\(.*\))?:(?P<space_2> +)(?P<speaking_line>.*)'
 regex_speaking_direction = '(?P<direction>\([^():]*\))?\.?\ ?(?P<speaking_line>[^():]*) ?'
@@ -22,32 +23,6 @@ rx_dict = {
 }
 
 rx_speaking_direction = re.compile(regex_speaking_direction)
-
-# This dictionary will help convert names of characters from first name only
-# to first + last name.
-character_dictionary = {
-    'arya' : 'arya stark',
-    'barriston' : 'barristan selmy',
-    'benjen' : 'benjen stark',
-    'catelyn' : 'catelyn stark',
-    'cersei' : 'cersei lannister',
-    'bran' : 'bran stark',
-    'daenerys' : 'daenerys targaryen',
-    'illyrio' : 'illyrio mopatis',
-    'jaime' : 'jaime lannister',
-    'jon' : 'jon snow',
-    'jorah' : 'jorah mormont',
-    'luwin' : 'maester luwin',
-    'ned' : 'eddard stark',
-    'ned Stark' : 'eddard stark',
-    'robb' : 'robb stark',
-    'robert' : 'robert baratheon',
-    'sansa' : 'sansa stark',
-    'the hound' : 'sandor clegane',
-    'theon' : 'theon greyjoy',
-    'tyrion' : 'tyrion lannister',
-    'viserys' : 'viserys targaryen'
-}
 
 def _parse_line(line):
     """
@@ -75,7 +50,7 @@ def _parse_speaking_line(speaking_line):
     return rx_speaking_direction.findall(speaking_line)
 
 def _convert_character(x):
-    x = x.lower().title().strip()
+    x = x.lower().strip()
 
     try:
         return character_dictionary[x]
@@ -106,7 +81,6 @@ def parse_file(filepath):
                 speaking_lines = _parse_speaking_line(match.group('speaking_line'))[:-1]
                 character = match.group('character')
                 direction = match.group('direction')
-                print(speaking_lines)
 
                 rows = [
                     {
@@ -148,7 +122,7 @@ def _clean_dataframe(df):
     Cleans the GoT script dataframe.
     """
 
-    df['character'] = df.character.apply(lambda x: _convert_character(x.lower().strip()))
+    df['character'] = df.character.apply(lambda x: _convert_character(x))
     df['speaking_line'] = df.speaking_line.apply(lambda x: x.lower().strip())
     df['action'] = df.action.apply(lambda x: x.lower())
     df['direction'] = df.direction.apply(lambda x: x.lower())
