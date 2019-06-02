@@ -2,7 +2,8 @@ import re
 import pandas as pd
 
 regex_speaking_line = '(?P<character>[^():]*)(?P<space_1> )?(?P<direction>\(.*\))?:(?P<space_2> +)(?P<speaking_line>.*)'
-regex_speaking_line_2 = '(?P<character>[^():]*):(?P<space_1> +)?(?P<direction>\(.*\))?(?P<space_2> +)(?P<speaking_line>.*)'
+regex_speaking_direction = '(?P<direction>\([^():]*\))?\.?\ ?(?P<speaking_line>[^():]*) ?'
+
 regex_action_line = '\[(?P<action>.*)\]'
 # For actions that continue over multiple lines
 regex_action_start_only = '\[(?P<action>.*)'
@@ -20,30 +21,32 @@ rx_dict = {
     'lazy_action': re.compile(regex_lazy_action)
 }
 
+rx_speaking_direction = re.compile(regex_speaking_direction)
+
 # This dictionary will help convert names of characters from first name only
 # to first + last name.
 character_dictionary = {
-    'Arya' : 'Arya Stark',
-    'Barriston' : 'Barristan Selmy',
-    'Benjen' : 'Benjen Stark',
-    'Catelyn' : 'Catelyn Stark',
-    'Cersei' : 'Cersei Lannister',
-    'Bran' : 'Bran Stark',
-    'Daenerys' : 'Daenerys Targaryen',
-    'Illyrio' : 'Illyrio Mopatis',
-    'Jaime' : 'Jaime Lannister',
-    'Jon' : 'Jon Snow',
-    'Jorah' : 'Jorah Mormont',
-    'Luwin' : 'Maester Luwin',
-    'Ned' : 'Eddard Stark',
-    'Ned Stark' : 'Eddard Stark',
-    'Robb' : 'Robb Stark',
-    'Robert' : 'Robert Baratheon',
-    'Sansa' : 'Sansa Stark',
-    'The Hound' : 'Sandor Clegane',
-    'Theon' : 'Theon Greyjoy',
-    'Tyrion' : 'Tyrion Lannister',
-    'Viserys' : 'Viserys Targaryen'
+    'arya' : 'arya stark',
+    'barriston' : 'barristan selmy',
+    'benjen' : 'benjen stark',
+    'catelyn' : 'catelyn stark',
+    'cersei' : 'cersei lannister',
+    'bran' : 'bran stark',
+    'daenerys' : 'daenerys targaryen',
+    'illyrio' : 'illyrio mopatis',
+    'jaime' : 'jaime lannister',
+    'jon' : 'jon snow',
+    'jorah' : 'jorah mormont',
+    'luwin' : 'maester luwin',
+    'ned' : 'eddard stark',
+    'ned Stark' : 'eddard stark',
+    'robb' : 'robb stark',
+    'robert' : 'robert baratheon',
+    'sansa' : 'sansa stark',
+    'the hound' : 'sandor clegane',
+    'theon' : 'theon greyjoy',
+    'tyrion' : 'tyrion lannister',
+    'viserys' : 'viserys targaryen'
 }
 
 def _parse_line(line):
@@ -58,6 +61,26 @@ def _parse_line(line):
             return key, match
 
     return None, None
+
+def _parse_speaking_line(speaking_line):
+    """
+    In some instances, speaking lines contain multiple iterations of:
+    (direction) speech
+    For instance:
+    JOFFREY: (Quietly) Well struck… (Louder) Well struck, Dog.
+    This function will parse the speaking line (everything after 'JOFFREY: ') to
+    retrieve the multiple sets of speech/direction pairs.
+    """
+
+    return rx_speaking_direction.findall(speaking_line)
+
+def _convert_character(x):
+    x = x.lower().title().strip()
+
+    try:
+        return character_dictionary[x]
+    except KeyError:
+        return x
 
 def parse_file(filepath):
     """
@@ -75,50 +98,62 @@ def parse_file(filepath):
         line = file_object.readline()
         while line:
 
-            row = None
+            rows = None
             key, match = _parse_line(line)
-            action, speaking_line, character = None, None, None
+            action, speaking_line, character, direction = None, None, None, None
 
             if key == 'speaking':
-                speaking_line = match.group('speaking_line')
+                speaking_lines = _parse_speaking_line(match.group('speaking_line'))[:-1]
                 character = match.group('character')
                 direction = match.group('direction')
-                row = {
-                    'speaking_line' : speaking_line,
-                    'character': character,
-                    'action': '',
-                    'direction': direction,
-                    'season': season,
-                    'episode': episode
-                }
+                print(speaking_lines)
+
+                rows = [
+                    {
+                        'speaking_line' : speaking_line[1],
+                        'character': character,
+                        'action': '',
+                        'direction': speaking_line[0] if speaking_line[0] != '' else (direction or ''),
+                        'season': season,
+                        'episode': episode
+                    }
+                    for speaking_line in speaking_lines
+                ]
 
             if key in ('action', 'action_start', 'action_end', 'lazy_action'):
                 action = match.group('action')
-                row = {
-                    'speaking_line' : '',
-                    'character': '',
-                    'action' : action,
-                    'direction': '',
-                    'season': season,
-                    'episode': episode
-                }
+                rows = [
+                    {
+                        'speaking_line' : '',
+                        'character': '',
+                        'action' : action,
+                        'direction': '',
+                        'season': season,
+                        'episode': episode
+                    }
+                ]
 
-            if row:
-                data.append(row)
+            if rows:
+                for row in rows:
+                    data.append(row)
 
             line = file_object.readline()
 
     data = pd.DataFrame(data)
 
-    return data
+    return _clean_dataframe(data)
 
-def convert_character(x):
-    x = x.lower().title().strip()
+def _clean_dataframe(df):
+    """
+    Cleans the GoT script dataframe.
+    """
 
-    try:
-        return character_dictionary[x]
-    except KeyError:
-        return x
+    df['character'] = df.character.apply(lambda x: _convert_character(x.lower().strip()))
+    df['speaking_line'] = df.speaking_line.apply(lambda x: x.lower().strip())
+    df['action'] = df.action.apply(lambda x: x.lower())
+    df['direction'] = df.direction.apply(lambda x: x.lower())
+
+    return df
 
 def parse_season(season_number, max_episode_number):
 
@@ -137,4 +172,5 @@ def parse_season(season_number, max_episode_number):
         filepath = f'./Data/season{season_number}/e{episode_number}.txt'
         df = df.append(parse_file(filepath))
 
+    # cleaning functions
     return df
