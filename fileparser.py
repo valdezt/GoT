@@ -53,9 +53,9 @@ def _convert_character(x):
     x = x.lower().strip()
 
     try:
-        return character_dictionary[x]
+        return character_dictionary[x].title()
     except KeyError:
-        return x
+        return x.title()
 
 def parse_file(filepath):
     """
@@ -123,9 +123,9 @@ def _clean_dataframe(df):
     """
 
     df['character'] = df.character.apply(lambda x: _convert_character(x))
-    df['speaking_line'] = df.speaking_line.apply(lambda x: x.lower().strip())
-    df['action'] = df.action.apply(lambda x: x.lower())
-    df['direction'] = df.direction.apply(lambda x: x.lower())
+    df['speaking_line'] = df.speaking_line.apply(lambda x: x.strip())
+    df['action'] = df.action.apply(lambda x: x)
+    df['direction'] = df.direction.apply(lambda x: x)
 
     return df
 
