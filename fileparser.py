@@ -143,7 +143,7 @@ def parse_season(season_number, max_episode_number):
     )
 
     for episode_number in range(1, max_episode_number+1):
-        filepath = f'./Data/season{season_number}/e{episode_number}.txt'
+        filepath = f'./showdata/season{season_number}/e{episode_number}.txt'
         df = df.append(parse_file(filepath))
 
     # cleaning functions

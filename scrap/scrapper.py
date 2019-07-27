@@ -6,7 +6,7 @@ import os
 import re
 
 r = r"(- )+"
-data_folder = "../Data/"
+data_folder = "../showdata/"
 
 def cleaner(text):
   if text:
@@ -14,13 +14,13 @@ def cleaner(text):
       return False
     else:
       return True
-    
+
 def single_file_creator():
 	for season in range(7):
 	  url = 'https://genius.com/albums/Game-of-thrones/Season-'+str(season+1)+'-scripts'
 	  folder_name =  data_folder + 'season'+str(season+1)
 	  os.mkdir(folder_name)
-	  
+
 	  response = requests.get(url)
 	  soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -35,7 +35,7 @@ def single_file_creator():
 	    a = soup.findAll("div", {"class": "lyrics"})
 	    data = a[0].text.split('\n')
 	    data  = [text for text in data if cleaner(text)]
-	    with open(folder_name +"/e"+str(key+1)+".txt", "w") as f:
+	    with open(folder_name +"/e"+str(key+1)+".txt", "w", encoding="utf-8") as f:
 	      for text in data:
 	        f.write(text)
 	        f.write("\n")
@@ -43,9 +43,9 @@ def single_file_creator():
 def file_merger():
 	folders = [data_folder+folder_name for folder_name in os.listdir(data_folder)]
 	master_list = [folder + '/' + file for folder in sorted(folders) for file in sorted(os.listdir(folder), key=lambda s: int(s[1:-4]))]
-	with open(data_folder + 'final_data.txt', 'w') as outfile:
+	with open(data_folder + 'final_data.txt', 'w', encoding="utf-8") as outfile:
 	    for files in master_list:
-	        with open(files) as infile:
+	        with open(files, encoding="utf-8") as infile:
 	            for line in infile:
                         outfile.write(line)
 
